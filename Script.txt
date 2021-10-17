@@ -1,0 +1,116 @@
+1. Load data from csv to hive
+cd Desktop/data
+hadoop fs -copyFromLocal hotel.csv
+hadoop fs -copyFromLocal transaction.csv
+hadoop fs -chmod -R 777 /user/cloudera
+
+create database traveloke;
+
+create external table hotel(
+    hotelid int,
+    neighbourhoodid int,
+    hostid int,
+    hotelname varchar(255),
+    longitude double,
+    latitude double,
+    price int
+)
+row format delimited
+fields terminated by ','
+stored as textfile
+tblproperties("skip.header.line.count" = "1");
+load data inpath '/user/cloudera/hotel.csv' into table hotel;
+
+create external table transaction(
+    transactionid int,
+    hotelid int,
+    customerid int,
+    transactiondate timestamp,
+    nights int
+)
+row format delimited
+fields terminated by ','
+stored as textfile
+tblproperties("skip.header.line.count" = "1");
+load data inpath '/user/cloudera/transaction.csv' into table transaction;
+
+2. Load data from MySQL to hive
+mysql -u root -p
+cloudera
+create database traveloke;
+use traveloke;
+source create+insert.sql;
+exit;
+sudo sqoop import-all-tables --connect jdbc:mysql://quickstart:3306/traveloke --username=root -P --hive-import --hive-database=traveloke
+cloudera
+
+3. Hive query for analysis
+--a.	Show top 3 female customers who stays the longest in a single month. 
+
+select customer.customerid, customer.customername, sum(transaction.nights) as totalnights
+from customer
+join transaction
+on transaction.customerid = customer.customerid
+where customer.customergender = 'Female'
+group by month(transaction.transactiondate), customer.customerid, customer.customername
+order by totalnights desc
+limit 3;
+
+--b.	Show top 3 hotels with the highest profit where the cost of staying per -- 	night is above 1000. 
+
+select hotel.hotelid, hotel.hotelname, sum(hotel.price*transaction.nights) as Profit
+from hotel
+join transaction
+on hotel.hotelid = transaction.hotelid
+where hotel.price < 1000
+group by hotel.hotelid, hotel.hotelname
+order by Profit desc
+limit 3;
+
+--c.	Show male hosts who owns the most number of hotel. 
+
+select host.hostid, host.hostname, count(hotel.hotelid) as Hotel
+from host
+join hotel
+on hotel.hostid = host.hostid
+where host.hostgender = 'Male'
+group by host.hostid, host.hostname
+order by Hotel desc
+limit 1;
+
+--d.	Show hotels and its gross profit in which the price is lower than the --	average price of other hotels and located in the Gamawa neighbourhood. 
+
+select hotel.hotelid, hotel.hotelname, sum(hotel.price*transaction.nights) as 'Gross Profit'
+from hotel
+join
+transaction
+on transaction.hotelid = hotel.hotelid
+join neighbourhood
+on neighbourhood.neighbourhoodid = hotel.neighbourhoodid,
+(select avg(hotel.price) as avege 
+from hotel)as table1
+where hotel.price < table1.avege and neighbourhood.neighbourhoodname = 'Gamawa'
+group by hotel.hotelid, hotel.hotelname, table1.avege;
+
+--e.	Show customers and its membership of the Clean and Cozy Harlem Apartment --	hotel. The membership is defined based on the total money spent by the 
+--	customer in the hotel as follows: 
+--	Total Money Spent	Membership
+--	Above or equal to 800	Gold Member
+--	 >= 500 and < 800	Silver Member
+--		Below 500	Bronze Member
+
+select customer.customerid, customer.customername, sum(hotel.price*transaction.nights) as 'Total Money Spent',
+    case 
+        when sum(hotel.price*transaction.nights) >= 800 then 'Gold Member'
+        when sum(hotel.price*transaction.nights) >= 500 and sum(hotel.price*transaction.nights) < 800 then 'Silver Member'
+        when sum(hotel.price*transaction.nights) < 500 then 'Bronze Member'
+    end as Membership
+from customer
+join transaction
+on transaction.customerid = customer.customerid
+join hotel
+on hotel.hotelid = transaction.hotelid
+where hotel.hotelname = 'Clean and Cozy Harlem Apartment'
+group by customer.customerid, customer.customername;
+
+

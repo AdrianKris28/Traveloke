@@ -1,0 +1,1186 @@
+HotelId,NeighbourhoodId,HostId,HotelName,longitude,latitude,price
+1,298,294,Skylit Midtown Castle,-73.98376999999999,40.75362,225
+2,778,348,THE VILLAGE OF HARLEM....NEW YORK !,-73.9419,40.809020000000004,150
+3,713,22,Cozy Entire Floor of Brownstone,-73.95976,40.685140000000004,89
+4,745,10,Entire Apt: Spacious Studio/Loft by central park,-73.94399,40.79851,80
+5,478,996,Large Cozy 1 BR Apartment In Midtown East,-73.975,40.74767,200
+6,724,328,BlissArtsSpace!,-73.95596,40.68688,60
+7,648,909,Large Furnished Room Near B'way ,-73.98493,40.76489,79
+8,614,121,Cozy Clean Guest Room - Family Apt,-73.96723,40.80178,79
+9,962,801,Cute & Cozy Lower East Side 1 bdrm,-73.99037,40.713440000000006,150
+10,675,953,Beautiful 1br on Upper West Side,-73.96545,40.80316,135
+11,367,183,Central Manhattan/near Broadway,-73.98867,40.76076,85
+12,300,670,Lovely Room 1 Garden Best Area Legal rental,-73.98779,40.66829,89
+13,972,320,Wonderful Guest Bedroom in Manhattan for SINGLES,-73.96113000000001,40.79826,85
+14,806,378,West Village Nest - Superhost,-74.00525,40.7353,120
+15,427,871,Only 2 stops to Manhattan studio,-73.95352,40.70837,140
+16,869,424,Perfect for Your Parents + Garden,-73.97185,40.69169,215
+17,81,815,Chelsea Perfect,-73.99501,40.74192,140
+18,142,98,Hip Historic Brownstone Apartment with Backyard,-73.94694,40.67592,99
+19,700,831,Huge 2 BR Upper East  Cental Park,-73.94872,40.79685,190
+20,561,354,Sweet and Spacious Brooklyn Loft,-73.95718000000001,40.71842,299
+21,181,969,CBG CtyBGd HelpsHaiti rm#1:1-4,-73.97706,40.680690000000006,130
+22,413,364,CBG Helps Haiti Room#2.5,-73.97798,40.67989,80
+23,763,40,CBG Helps Haiti Rm #2,-73.97865,40.680009999999996,110
+24,822,817,MAISON DES SIRENES1bohemian apartment,-73.94028,40.68371,120
+25,396,53,Sunny Bedroom Across Prospect Park,-73.97519,40.65599,60
+26,987,247,Magnifique Suite au N de Manhattan - vue Cloitres,-73.92639,40.867540000000005,80
+27,649,336,Midtown Pied-a-terre,-73.98533,40.76715,150
+28,688,508,SPACIOUS LOVELY FURNISHED MANHATTAN BEDROOM,-73.92106,40.86482,44
+29,102,367,Modern 1 BR / NYC / EAST VILLAGE,-73.98541999999999,40.7292,180
+30,847,654,front room/double bed,-73.95104,40.82245,50
+31,356,23,Spacious 1 bedroom in luxe building,-73.95466,40.81305,52
+32,919,916,Loft in Williamsburg Area w/ Roof,-73.93762,40.722190000000005,55
+33,818,239,back room/bunk beds,-73.95318,40.8213,50
+34,542,412,Large B&B Style rooms,-73.95473,40.6831,70
+35,306,142,Lovely room 2 & garden Best area Legal rental,-73.9878,40.668690000000005,89
+36,412,128,Clean and Quiet in Brooklyn,-73.94312,40.688759999999995,35
+37,720,373,Cute apt in artist's home,-73.92745,40.701859999999996,85
+38,157,572,Country space in the city,-73.96327,40.63702,150
+39,795,238,LowerEastSide apt share shortterm 1,-73.98917,40.714009999999995,40
+40,855,237,ENJOY Downtown NYC!,-73.98199,40.7229,68
+41,842,721,Beautiful Sunny Park Slope Brooklyn,-73.97966,40.66278,120
+42,880,132,1bdr w private bath. in lofty apt,-73.97584,40.69673,120
+43,821,968,West Side Retreat,-73.97927,40.79009,135
+44,581,419,BEST BET IN HARLEM,-73.94478000000001,40.81175,150
+45,592,88,Entire apartment in central Brooklyn neighborhood.,-73.96238000000001,40.659440000000004,150
+46,835,617,1 Stop fr. Manhattan! Private SuiteLandmark Block,-73.9474,40.74771,130
+47,590,989,Charming Brownstone 3 - Near PRATT,-73.95591,40.68111,110
+48,535,828,bright and stylish duplex,-73.9409,40.68554,115
+49,700,665,Fort Greene brownstone ,-73.97376,40.69142,80
+50,743,329,Blue Room for 2 in Brownstone for $1350 monthly,-73.93934,40.68043,80
+51,509,723,Cozy 1BD on Central Park West in New York City,-73.97008000000001,40.78635,151
+52,328,447,* ORIGINAL BROOKLYN LOFT *,-73.9356,40.7042,228
+53,320,377,Greenpoint Place...Has It All! ,-73.95392,40.73506,144
+54,405,676,Beautiful Apartment in Manhattan!!!,-73.98074,40.73961,200
+55,151,587,Williamsburg 1 bedroom Apartment,-73.9593,40.70881,150
+56,387,257,Great Location Manhattan Bedroom!,-73.99104,40.720040000000004,110
+57,485,621,Best Location in NYC! TIMES SQUARE!,-73.99293,40.755309999999994,69
+58,889,973,Room in Greenpoint Loft w/ Roof,-73.93788,40.72401,49
+59,154,779,**Bright Nolita Apt w Doorman/Elevators/Gym**,-73.99775,40.7221,180
+60,639,335,Very very cozy place,-73.96204,40.71185,80
+61,787,352,Sunny & Spacious Chelsea Apartment,-73.9953,40.74623,375
+62,180,461,2 bedroom - Upper East Side-great for kids,-73.95269,40.77065,250
+63,474,728,Comfortable 4-bedroom apt in family house.,-73.96428,40.67811,200
+64,578,510,Double Room w Private Deck Clinton Hill Best Area,-73.96788000000001,40.69,55
+65,854,552,Your Heaven in Hells Kitchen,-73.99119,40.75979,52
+66,711,305,Light-filled 2B duplex in the heart of Park Slope!,-73.98338000000001,40.673429999999996,225
+67,929,120,Sunny Modern room in East Village!,-73.97904,40.726490000000005,80
+68,60,330,*HAVEN LOFT - Entire Floor - Six Windows - Bricks*,-73.96791999999999,40.70933,275
+69,572,954,Large Room in Amazing East Village Apt,-73.98474,40.72298,99
+70,977,179,SpaHa Loft: Enormous and Bright,-73.93921999999999,40.80164,225
+71,174,327,Lovely EV Artist's Home,-73.98008,40.72162,230
+72,317,455,Cool Room in Hell's Kitchen,-73.98865,40.76342,51
+73,352,495,HARLEM NEW YORK WELCOMES YOU!!,-73.94095,40.83139,65
+74,898,58,BLUE TRIM GUEST HOUSE,-73.96374,40.68346,105
+75,933,308,Charming East Village One Bedroom Flat,-73.98801,40.72828,190
+76,582,120,Manhattan Room,-73.95058,40.76865,200
+77,364,132,Little King of Queens,-73.90334,40.75038,70
+78,536,69,Fort Greene Retreat on the Park,-73.97267,40.6932,95
+79,926,173,Beautiful Meatpacking District Loft,-74.00197,40.74138,150
+80,571,161,Cozy 2 BR in Williamsburg ,-73.96112,40.71154,145
+81,461,530,Spacious luminous apt Upper West NYC,-73.95136,40.82915,110
+82,823,910,Entire 2 Bedroom - Large & Sunny,-73.98892,40.718509999999995,285
+83,937,296,Sunny Spacious Top Floor Haven,-73.96323000000001,40.65401,130
+84,498,47,Private room Great Deal at Lower East Side,-73.98794000000001,40.7114,94
+85,397,855,perfect for a family or small group,-73.99268000000001,40.69723,800
+86,406,397,2 bedroom Williamsburg Apt - Bedford L stop,-73.95748,40.71833,105
+87,725,43,Oh glorious spring!,-73.9844,40.72334,60
+88,296,684,Great Location for NYC,-73.98057,40.72912,50
+89,284,478,Cozy Bedroom in Williamsburg 3 BR,-73.96218,40.71156,85
+90,928,277,Sunny room+Pvte office in huge loft,-73.9383,40.70032,65
+91,121,182,Spacious Prospect Heights Apartment,-73.97261,40.68233,131
+92,756,189,Large Parlor Room Landmark Home 1 block to PRATT,-73.96600000000001,40.68634,98
+93,397,604,2-bed brownstone duplex + garden,-73.97162,40.68035,250
+94,718,843,Charming 1 bed GR8 WBurg LOCATION!,-73.95775,40.70984,100
+95,96,83,Sunny Apartment in Artist Home,-73.92609,40.70093,105
+96,925,56,Light-filled classic Central Park ,-73.96177,40.79764,140
+97,384,229,Upper Manhattan New York,-73.94731,40.82803,89
+98,240,300,COZY QUIET room 4 DOOGLERS!,-74.00271,40.74008,98
+99,122,945,The Stuydio Modern and Light Filled,-73.92357,40.684129999999996,125
+100,961,462,loft bed - near transportation-15min to times sq,-73.95139,40.822790000000005,60
+101,208,171,House On Henry (3rd FLR Suite),-74.00154,40.67967,175
+102,131,256,Monkey Retreat Manhattan,-73.94281,40.83927,65
+103,789,359,2000 SF 3br 2bath West Village private  townhouse,-74.00319,40.730959999999996,500
+104,874,235,Williamsburg—Steps To Subway Private Bath&Balcony,-73.94176999999999,40.71332,101
+105,675,51,Beautiful Duplex Apartment,-73.98109000000001,40.66941,220
+106,348,593,Large 2 Bedroom Great for Groups!,-73.92376999999999,40.68373,125
+107,490,536,Modern Brooklyn Apt. August sublet,-73.94844,40.71459,80
+108,850,525,1800 sq foot in luxury building,-73.94421,40.8092,100
+109,295,592,Sunny 2-story Brooklyn townhouse w deck and garden,-73.98989,40.68157,200
+110,522,219,Times Square Safe Clean and Cozy!,-73.99291,40.75527,59
+111,538,358,Cozy Room #3 Landmark Home 1 Block to PRATT,-73.96571999999999,40.68698,125
+112,206,685,Beautiful Apartment East Village,-73.98192,40.7288,140
+113,101,659,Park Slope Green Guest House,-73.98912,40.66853,120
+114,383,629,2 BR / 2 Bath Duplex Apt with patio! East Village,-73.98156999999999,40.7254,350
+115,577,447,NYC fabulous views Manhattan's eye,-73.98009,40.742940000000004,199
+116,323,816,2 story family home in Williamsburg,-73.95748,40.71942,325
+117,747,378,Comfortable UWS 2-BD Family-Friendly Brownstone,-73.97636999999999,40.77823,235
+118,719,334,Great Large 1 BR apt  in East Village!,-73.97965,40.72555,225
+119,233,409,Eveland Private Bed & Living Room w/ Own Entrance,-73.98604,40.66831,99
+120,862,983,Sugar Hill Rest Stop ,-73.94919,40.82754,170
+121,235,699,3 Story Town House in Park Slope,-73.97925,40.66499,400
+122,634,956,apartment next to Central park,-73.97556,40.778420000000004,170
+123,402,225,East Village Sanctuary,-73.98527,40.72245,100
+124,562,195,Large 1  BR in a 3 BR Brooklyn apt. next to Q Trn.,-73.96053,40.65593,75
+125,71,37,Modern Apt with Spectacular Views,-73.96468,40.719229999999996,90
+126,165,119,Garden studio in the Upper East Sid,-73.94821999999999,40.778,150
+127,343,181,Secluded Master Bedroom in Beautiful Huge Apt,-73.93128,40.85879,85
+128,747,93,B & B Room 1,-73.9547,40.68332,70
+129,349,221,ACCOMMODATIONS GALORE #1,-73.94894000000001,40.816179999999996,120
+130,208,578,Sunny Room in New Condo,-73.96351,40.68414,89
+131,30,741,Stylish & Sleek Apartment Near SoHo!,-73.99143000000001,40.72392,185
+132,599,654,NYC artists’ loft with roof deck,-73.9503,40.73494,50
+133,430,146,Unique & Charming small 1br Apt. LES,-73.98855999999999,40.713409999999996,105
+134,159,466,Most Central Location!,-73.98399,40.767540000000004,130
+135,118,987,Luminous Beautiful West Village Studio,-74.00303000000001,40.73442,115
+136,535,630,Sanctuary in East Flatbush,-73.93248,40.631879999999995,77
+137,160,982,Room with En Suite Bathroom & Deck,-73.9634,40.6873,76
+138,529,993,FLAT MACDONOUGH,-73.93661999999999,40.682959999999994,125
+139,714,41,Huge Private  Floor at The Waverly,-73.96765,40.6863,135
+140,746,154,Modern Greenpoint Brooklyn Apt,-73.95348,40.73409,250
+141,669,54,Sun-drenched artsy modernist 1 BDRM duplex,-73.94835,40.71561,199
+142,632,557,Sunny Cobble Hill Apartment,-73.99183000000001,40.6857,140
+143,876,226,Fully Furnished Basement Apartment,-73.83168,40.74028,140
+144,768,205,FLAT MACDONOUGH GARDEN,-73.93524000000001,40.682809999999996,115
+145,867,933,Light filled Williamsburg Apartment,-73.93938,40.715959999999995,160
+146,392,439,Retreat in Williamsburg,-73.95935,40.71492,195
+147,950,2,NYC Zen,-73.98295,40.72354,195
+148,86,135,Cozy BR in Wiliamsburg 3 Bedroom,-73.96087,40.71165,80
+149,123,809,Sunny Room in Old Historical Brooklyn Townhouse,-73.97312,40.69101,44
+150,11,285,Sun Filled Classic West Village Apt,-74.00101,40.73474,156
+151,820,521,Lg Rm in Historic Prospect Heights,-73.96641,40.67386,85
+152,797,354,Classic Artist Loft Williamsburg,-73.96056999999999,40.71536,125
+153,408,641,Great location. Spacious on PROSPECT PARK,-73.96595,40.6741,115
+154,354,552,Private Bdrm/Bathrm. New! Elevator!,-73.93997,40.79295,69
+155,440,140,Sunny clean 1 bdrm in W. Village,-74.00401,40.73226,225
+156,66,147,Great location in Williamsburg,-73.96398,40.71363,125
+157,651,476,Light and Airy Upper East Side 1 BDR apartment,-73.9527,40.77711,219
+158,832,468,Luxury Brownstone in Boerum Hill,-73.98094,40.685590000000005,475
+159,88,271,CENTRAL PARK LOFT all for YOU,-73.95323,40.77456,99
+160,949,443,Indie-Chic Share In Williamsburg,-73.95055,40.710879999999996,69
+161,84,627,A room w/ a Manhattan view longer stay,-73.92313,40.74559,79
+162,198,221,Private Large & Sunny 1BR w/W&D,-73.94659,40.68306,135
+163,151,679,Luxurious Condo in DUBMO with View,-73.98571,40.70207,250
+164,120,25,Charming & Cozy midtown loft any WEEK ENDS  !!!,-73.9642,40.76123,250
+165,628,533,* Spacious GARDEN Park Slope Duplex* 6 people max,-73.99083,40.66858,250
+166,550,479,Convenient cozy cheap apt Manhattan,-73.94906999999999,40.827040000000004,80
+167,853,970,Parlor Room In Victorian Townhouse,-73.96408000000001,40.68843,70
+168,37,227,House On Henry (2nd FLR Suite),-74.00135,40.6783,165
+169,854,110,New York room with a view,-74.08088000000001,40.64524,70
+170,708,768,Sunny cozy room in Brklyn townhouse,-73.91765,40.70641,50
+171,923,553,Room with a View,-73.93184000000001,40.83232,40
+172,1,181,Light+Open+Airy+Rustic+Modern Loft,-73.9677,40.71045,150
+173,366,121,West Inn 2 - East Village,-73.98034,40.72518,125
+174,515,134,Financial District Luxury Loft,-74.01374,40.70666,196
+175,560,672,BROOKLYN VICTORIAN STYLE SUITE.....,-73.97113,40.690979999999996,110
+176,375,108,Your own Lovely West Village Studio,-74.00405,40.737559999999995,170
+177,998,946,ACCOMMODATIONS GALORE#3. 1-5 GUESTS,-73.94791,40.815259999999995,165
+178,111,573,Greenwich Village Stylish Apartment,-74.0046,40.73423,150
+179,398,560,Clean and Cozy Harlem Apartment,-73.9373,40.82374,100
+180,374,841,Fort Greene Brooklyn: Center Bedroom,-73.97691,40.688629999999996,65
+181,345,142,Beautiful Queens Brownstone! - 5BR,-73.89797,40.70382,350
+182,289,540,Couldn't Be Closer To Columbia Uni,-73.95924000000001,40.80549,99
+183,877,784,Bright Spacious Luxury Condo,-73.9587,40.71627,200
+184,96,496,Park Slope haven 15 mins from Soho,-73.97863000000001,40.67994,150
+185,608,497,SAFE  AND BEAUTIFUL ACCOMODATION,-73.9475,40.67992,90
+186,300,26,Large Room in private Brownstone in Park Slope,-73.97306999999999,40.67868,120
+187,488,599,NEW YORK CITY 1 BDRM.(NEAR CENTRAL PARK & METRO),-73.95334,40.76834,75
+188,786,263,LARGE COMFY 1BDR W/CHARACTER!!!,-73.9415,40.68237,175
+189,888,711,Chelsea Studio sublet 1 - 2 months,-73.99999,40.74031,125
+190,574,791,LUX APT IN TIMES SQUARE NEW BUILDING,-73.99665,40.76307,275
+191,614,594,Designer 1 BR Duplex w/ Terrace- Spectacular Views,-73.98852,40.71882,299
+192,397,973,Lovely Apt & Garden Legal Best Area Amenities,-73.98804,40.6693,135
+193,438,112,1 Bedroom in 2 Bdrm Apt- Upper East,-73.95199000000001,40.77333,130
+194,204,260,Lower East Side $57~/night,-73.99201,40.72319,83
+195,660,154,Prime Location in Manhattan,-73.99671,40.74859,123
+196,604,381,( F) Excellent/Pvt Rm,-73.76597,40.67252,55
+197,457,104,Quiet sunny Midtown Manhattan apt.,-73.99271,40.762440000000005,195
+198,467,349,Big Room/Washer-Dryer/Wifi/AC/JMZ,-73.93503,40.69546,80
+199,766,467,cozy studio with parking spot,-73.87856,40.717220000000005,98
+200,629,922,Clean and convenient 2BR apartment,-73.89816,40.70234,140
+201,752,250,3 floors of luxury!,-73.87854,40.71546,265
+202,771,808,The Institute—Heart of Williamsburg,-73.95976,40.7195,249
+203,59,993,MIDTOWN WEST - Large alcove studio,-73.98474,40.76548,105
+204,814,80,Beautiful Uptown Manhattan apartmnt,-73.95603,40.80234,200
+205,116,432,Sml Rm in pr Brst  Park Sl great for Med/students,-73.97261999999999,40.6787,100
+206,592,80,City Room - Private Penthouse Apt.,-73.94598,40.81035,121
+207,64,509,Cozy bedroom by Yankee Stadium,-73.93058,40.83075,45
+208,253,632,Great apartment with private bathroom and entrance,-73.94275,40.79958,100
+209,82,557,Private Garden Apt • New Renovation,-73.93845,40.71625,140
+210,190,844,Modern comfort in art infused landmark Brownstone,-73.93549,40.6829,71
+211,527,855,NOHO/EAST VILLAGE PRIVATE 1/2 BATH,-73.99134000000001,40.72773,130
+212,239,701,Sleek & Comfortable Soho Apt,-74.0049,40.728609999999996,199
+213,300,35,Spacious Williamsburg Share w/ LOFT BED,-73.95161999999999,40.709790000000005,69
+214,904,872,Cozy 2 br in sunny Fort Greene apt,-73.97525,40.68656,68
+215,670,845,Cozy East Village Railroad 1 Bed!,-73.98432,40.72752,130
+216,130,91,1 Bedroom Loft w/ Private Roof Deck,-73.95829,40.729,195
+217,334,313,City Room - Private & Comfy Bedroom,-73.94499,40.81219,64
+218,949,303,Elegant NYC Pad,-73.90502,40.77185,140
+219,218,666,Clean & bright 1BR in Cobble Hill GREAT location!,-73.99386,40.68926,159
+220,577,447,Modern Large East Village Loft,-73.98701,40.72821,189
+221,245,357,Great new apt close to everything,-73.98508000000001,40.7672,250
+222,622,534,Quiet & Clean Retreat in the City,-73.99053,40.73012,239
+223,247,19,Stylish Large Gramercy Loft!,-73.98498000000001,40.7403,305
+224,652,752,The Brownstone-Luxury 1 Bd Apt/NYC,-73.94343,40.809309999999996,155
+225,871,616,PRIVATE Room on Historic Sugar Hill,-73.94287,40.8251,60
+226,6,654,South Slope Green,-73.98397,40.6585,135
+227,85,980,17 Flr. Manhattan Views Nr. Subway,-73.9501,40.76193,120
+228,385,607,Spacious 1BR Adorable Clean Quiet,-73.98589,40.72052,150
+229,579,96,Nice clean safe convenient 3BR,-73.89934000000001,40.70411,140
+230,347,763,Franklin St Flat in Trendy Greenpoint Brooklyn,-73.95966999999999,40.73401,135
+231,447,824,Artistic Cozy and Spacious w/ Patio! Sleeps 5,-73.99503,40.71756,250
+232,64,110,One bedroom Apt. in NYC,-73.96991,40.7589,250
+233,247,298,Beautiful elegant 3 bed SOHO loft,-74.00262,40.72003,500
+234,864,709,Spacious Greenwich Village Apt,-73.99474000000001,40.73194,225
+235,773,485,SpaHa Studio Monthly Rental,-73.94573000000001,40.79163,125
+236,970,94,City Room - Private Luxury Suite,-73.94434,40.8118,92
+237,262,228,Private Room/bath Luxurious Harlem,-73.94707,40.81583,175
+238,691,492,The gem of the East Village,-73.98049,40.72654,99
+239,123,36,Bright and spacious garden below!,-73.96070999999999,40.80021,195
+240,230,447,ACCOMMODATIONS GALORE #2,-73.93936,40.80942,140
+241,675,150,Colorful Private One Bedroom Apt,-73.9954,40.719609999999996,135
+242,285,307,Huge Chelsea Loft,-74.00027,40.74358,500
+243,395,49,Great room in great location,-73.9575,40.80335,80
+244,223,772,Exclusive Room with Private Bath in  LES,-73.9908,40.71445,120
+245,41,739,Quiet clean midtown apt w. elevato,-73.96897,40.757490000000004,110
+246,415,573,BK Sweet Suite w/Kitchen&FullBath,-73.9503,40.644459999999995,65
+247,120,450,Great East Village Apartment Rental,-73.99079,40.7268,130
+248,650,460,BROWNSTONE SUNDRENCHED BEAUTY,-73.9171,40.688,99
+249,77,292,A SpeciaL!! Private Room in NY,-74.08537,40.63536,36
+250,381,147,B NYC Staten Alternative...,-74.08543,40.63627,37
+251,110,530,C Private Room By The Ferry,-74.08546,40.63518,37
+252,562,46,Smallest House In The Village,-73.98161,40.72477,175
+253,262,889,Beautiful modern studio apartment in heart of NYC,-73.99566999999999,40.74238,205
+254,836,977,Beautiful Landmarked Duplex,-73.95510999999999,40.72945,285
+255,87,606,BROOKLYN > Guest Room w/ Queen Bed in Williamsburg,-73.95177,40.70763,59
+256,379,971,D Private Che@p Room 2 Explore NYC,-74.08519,40.634809999999995,36
+257,939,74,Safe cute near subway& Manhattan NY NY retro style,-73.91433,40.753840000000004,99
+258,515,589,Large and Cozy Private Bedroom,-73.97426,40.641059999999996,39
+259,530,836,Small tidy bedroom in duplex,-73.98326999999999,40.66793,60
+260,161,523,LL3,-73.85514,40.81309,90
+261,984,950,DOMINIQUE'S NY mini efficiency* wifi*metro*quiet,-73.83572,40.88057,105
+262,570,415,Private Large & Sunny Top Floor Apt  w/W&D,-73.94314,40.682359999999996,135
+263,890,360,Cottage in the Village,-73.98246,40.72185,390
+264,234,126,BEDROOM1 FOR RENT 10min from Manhan,-73.95385,40.68503,70
+265,790,425,HOSTING YOUR  SUNNY SPACIOUS NYC ROOM,-73.9263,40.866479999999996,75
+266,272,682,Williamsburg near soho. / loftbed,-73.95467,40.7069,60
+267,57,445,Prime East Village 1 Bedroom,-73.98594,40.72807,200
+268,787,458,BROOKLYN  STUDIO APARTMENT,-73.94339000000001,40.6778,100
+269,459,539,BEDROOM2 FOR RENT  10min from Manh,-73.94700999999999,40.683170000000004,70
+270,881,471,cozy bedroom in lovely garden apt,-73.9529,40.6761,110
+271,184,729,Crown Heights Garden Apt.,-73.95155,40.67586,60
+272,955,523,Amazing  Sunny & Breezy Home In the Heart of  NYC,-73.99811,40.71702,90
+273,987,231,ENJOY Downtown NYC!!,-73.98156999999999,40.723209999999995,68
+274,792,193,Charming UWS Treehouse Apt,-73.98098,40.77956,115
+275,536,456,Share a HOME - $75 for 1 bdrm/++ for 2 - Brooklyn,-73.95264,40.682759999999995,75
+276,862,492,Room in S3rd/Bedford Williamsburg,-73.9626,40.71368,60
+277,114,972,CHARMING EAST VILLAGE 2 (or 1) BR,-73.98158000000001,40.72956,129
+278,34,270,Farmhouse Apartment in Williamsburg,-73.95175,40.71069,130
+279,445,649,Bright+Spacious Williamsburg Abode!,-73.94641,40.70863,95
+280,235,718,Suite Sugar Hill Harlem Private Rm in Hosted Apt,-73.94306999999999,40.82888,75
+281,183,92,Beautiful 1 Bedroom Apt Park Slope,-73.97323,40.673190000000005,175
+282,87,736,CHARMING CARROLL GARDENS APT.,-73.99443000000001,40.67846,190
+283,951,675,Private Bedroom Brownstone Brooklyn,-73.94808,40.6715,49
+284,301,813,East Village Loft with Piano & Patio,-73.98534000000001,40.72681,212
+285,930,818,Lower East Side Magic Room,-73.99391999999999,40.71904,95
+286,885,7,**Fantastic Williamsburg Apt**,-73.9583,40.71031,140
+287,563,329,West Harlem Home Base - Eco-Apt.,-73.95306,40.81322,135
+288,280,719,Charming Garden Apt in Park Slope,-73.98225,40.67732,150
+289,801,499,Lovely Modern Garden Apartment,-73.9896,40.68076,190
+290,285,704,Central Park 1BR sunny condo,-73.94903000000001,40.79603,124
+291,827,626,Cozy Garden Apartment  in Williamsburg,-73.96282,40.71492,135
+292,151,567,SoHa comfort-by NW Central Park!,-73.95838,40.80393,122
+293,144,524,Cozy room in Upper West Side,-73.9652,40.80082,109
+294,151,463,Cozy Private Room in Apartment,-73.94866999999999,40.82976,85
+295,154,756,The Cozy Brownstone Inn (discount)!,-73.91981,40.683,145
+296,798,342,Prewar Penthouse w Private Terrace,-73.9729,40.78971,195
+297,235,737,Designer 2.5 BR Loft in Carroll Gardens by Subway,-73.99495,40.67817,250
+298,44,956,Bright Beautiful Brooklyn,-73.95578,40.731190000000005,125
+299,347,361,Unique spacious loft on the Bowery,-73.99627,40.719429999999996,575
+300,544,68,Nice renovated apt prime location!,-73.98249,40.78,150
+301,351,857,Brooklyn Writer's Nook,-73.91922,40.70514,70
+302,995,705,Private Bedroom in Large NYC Apartment,-73.92811,40.867129999999996,90
+303,187,2,Large Sunny Room East Village NYC,-73.98881,40.73198,65
+304,515,975,Great Large 3 BR/2 Bath Duplex with Private Patio!,-73.97986,40.72542,500
+305,324,95,All That Jazz. Uptown style on Sugar Hill.,-73.93869000000001,40.83494,250
+306,567,651,Bright and lovely 1 bdrm apt in LES,-73.98945,40.716590000000004,125
+307,648,563,Beautiful One Bed West Village - 4 Month Special,-74.00243,40.729659999999996,200
+308,933,455,Gigantic Private Brooklyn Loft!,-73.95551999999999,40.72898,229
+309,258,112,Condo Apartment with laundry in unit,-73.90193000000001,40.87207,90
+310,85,289,1BR: See Central Park from Terrace!,-73.97818000000001,40.77728,110
+311,699,137,Private room in cozy Greenpoint,-73.95340999999999,40.726459999999996,59
+312,404,905,Food & Music Dream Apartment in Williamsburg,-73.96101,40.71015,195
+313,327,716,French Garden cottage off Bedford,-73.9597,40.71903,169
+314,319,939,Alcove Studio w/ outdoor Patio Deck,-73.93985,40.80892,113
+315,681,714,Luxury 3 bed/ 2 bath apt in Harlem w/ terrace,-73.9567,40.80276,250
+316,138,194,One Bedroom Mini studio - Free WIFI,-73.93426,40.77635,115
+317,545,262,Sunlit and Cozy Williamsburg/Greenpoint Brooklyn,-73.95018,40.72488,55
+318,795,911,BROOKLYN > Guest Room w/ King Bed in Williamsburg,-73.95763000000001,40.71398,69
+319,386,320,Bright Cozy Chinatown Studio Apt.,-73.98394,40.718759999999996,150
+320,907,945,Eveland the Place to Stay & Enjoy a 5-⭐️ 2bdrm,-73.99019,40.66552,169
+321,544,242,Superior @ Box House,-73.95291999999999,40.73749,179
+322,647,310,Hells Kitchen Garden of Eden,-73.9913,40.76248,150
+323,490,433,Historic House Boerum Hill BK NYC,-73.98876,40.68674,135
+324,937,21,Lovely 3 bedroom in Italianate Brownstone w/garden,-73.96219,40.6848,350
+325,616,647,Williamsburg HUGE PRIVATE BATH - Next to Train!,-73.95455,40.70516,120
+326,273,670,Cozy room in East Village with AC,-73.98486,40.723290000000006,71
+327,213,996,Duplex w/ Terrace @ Box House Hotel,-73.95326999999999,40.737759999999994,349
+328,561,566,Loft w/ Terrace @ Box House Hotel,-73.95482,40.73738,349
+329,476,904,Spacious 3 Bedroom Duplex in Park Slope,-73.98142,40.67542,165
+330,644,367,Loft w/ Terrace @ Box House Hotel,-73.95312,40.73842,249
+331,987,855,Columbia Castle in Brooklyn Heights,-73.99831999999999,40.6926,100
+332,480,255,Columbia Castle 2 BR,-73.99771,40.69441,200
+333,258,574,Charming Artist's Flat East Village,-73.98374,40.72399,169
+334,475,968,BEAUTIFUL 2 BEDROOM APARTMENT,-73.94615,40.6824,185
+335,603,815,Brooklyn Cove Studio Apt w/ Garden!!,-73.91708,40.68949,65
+336,358,57,Ft. Greene garden gem large and convenient,-73.97258000000001,40.688190000000006,130
+337,777,643,Williamsburg penthouse with private roof cabana,-73.96015,40.7205,199
+338,183,780,East Village Designer's 1-BR APT,-73.98094,40.724509999999995,225
+339,531,611,Superior @ Box House,-73.95394,40.73813,179
+340,717,890,So Much Room in Brooklyn,-73.94715,40.675909999999995,150
+341,549,637,Large Studio--Heart of East Village,-73.98895,40.728429999999996,139
+342,264,746,Huge.Bright.Clean.Safe. Private Room,-73.99776,40.712709999999994,95
+343,293,33,Garden 1BR/1BA Brownstone Apt - 2 blocks to subway,-73.94735,40.66966,79
+344,213,251,MODERN SPACIOUS 2 BR APT DOWNTOWN MANHATTAN,-73.98765999999999,40.71965,150
+345,941,669,The Brooklyn Waverly,-73.96536,40.68613,650
+346,254,482,WONDERFUL COMFORTABLE STUDIO,-73.94911,40.680479999999996,90
+347,685,926,MAISON DES SIRENES 2,-73.93963000000001,40.68314,120
+348,343,33,Modern Safe Clean Bright Room in Astoria for 2,-73.91117,40.759609999999995,80
+349,361,924,LARGE 1BR (CONV 2BR) CROWN HEIGHTS,-73.94494,40.67473,100
+350,886,497,The Vernon On Greene,-73.93185,40.69305,175
+351,773,189,Beautiful Bright’s Warm & Spacious 1.5BR Apt,-73.95663,40.67174,120
+352,44,296,Lovely 1BR in Tree-lined WBurg,-73.95098,40.71055,140
+353,892,299,Spacious Loft in Clinton Hill,-73.95458,40.69465,200
+354,819,755,The Brooklyn Waverly One Bedroom,-73.96542,40.684129999999996,165
+355,256,64,LOVELY APARTMENT IN THE HEART OF NY,-73.97707,40.73877,125
+356,968,378,Groovy NYC Chelsea Pad,-73.99544,40.74893,130
+357,643,107,Comfortable Cozy Space in El Barrio,-73.94102,40.794059999999995,65
+358,881,849,Sunny Bklyn Jewel  Fort Greene JULY  - AUG 2019,-73.97332,40.68795,123
+359,480,783,MANHATTAN Neat Nice Bright ROOM,-73.93361,40.85295,67
+360,32,243,Bienvenue,-73.76133,40.72413,50
+361,497,50,Large Brand New Park Slope 1BR,-73.99186999999999,40.66918,130
+362,732,388,Colorful Artistic Williamsburg Apt,-73.95613,40.71125,100
+363,736,263,UWS Brownstone Near Central Park,-73.9696,40.785579999999996,212
+364,82,14,Artsy TopFloor Apt in PRIME BEDFORD Williamsburg,-73.96053,40.71577,190
+365,11,277,2 BR w/ Terrace @ Box House Hotel,-73.95485,40.738609999999994,599
+366,936,124,BOHEMIAN EAST VILLAGE 2 BED HAVEN,-73.98745,40.725770000000004,249
+367,152,209,Oceanfront Apartment in Rockaway,-73.81245,40.58615,70
+368,940,897,Private 1-Bedroom Apt in Townhouse,-73.94872,40.67086,100
+369,869,145,Bright Room With A Great River View,-73.95231,40.827729999999995,60
+370,58,693,Tree lined block modern apartment,-73.95684,40.68505,135
+371,452,75,Sweet Historic Greenpoint Duplex,-73.95493,40.72911,175
+372,616,888,Riverside Charm with Fire Place,-73.98567,40.77944,120
+373,67,150,Very Central Nomad/Chelsea Loft Studio,-73.98876,40.74503,169
+374,322,492,Sunny 3BR Apt Ideal for Family  ,-73.96093,40.67539,165
+375,283,165,Cozy Private Room in West Harlem!,-73.95189,40.8054,90
+376,19,642,UES Quiet & Spacious 1 bdrm for 4,-73.9508,40.784909999999996,225
+377,344,789,ALL ABOUT A VERY COMFORTABLE ROOM..,-73.97306999999999,40.69088,95
+378,308,19,Brooklyn- Crown Heights Garden Apt.,-73.95057,40.67555,55
+379,328,812,Cozy room in Time Square!,-73.99193000000001,40.75835,85
+380,970,714,Large Park Slope Townhouse Duplex,-73.9886,40.66527,199
+381,260,689,Lower East Side 2 Bedroom Apt,-73.99434000000001,40.71895,211
+382,846,718,Manhattan Studio Perfect Location,-73.96699,40.755790000000005,145
+383,329,477,Sun-Drenched Hamilton Hts Jewel   ,-73.95328,40.82399,65
+384,501,566,Your Stunning Vacation Apartment!,-73.94095,40.818220000000004,99
+385,136,594,1 BDRM Apt-Weekend Sublease,-73.92132,40.764340000000004,110
+386,509,257,ROOM WITH A  KITCHENETTE,-73.94925,40.67705,80
+387,433,598,Conveniently Located Sunny Brooklyn Heights!,-73.99438,40.69263,150
+388,561,977,Style in Stuyvesant Heights,-73.92747,40.68448,110
+389,838,866,Heart of Meatpacking & Chelsea,-74.00208,40.74412,290
+390,621,701,Spacious East Village apt near it all,-73.98702,40.73067,87
+391,511,326,Williamsburg apartment right by the subway,-73.94060999999999,40.70665,190
+392,423,441,Spacious Brooklyn Loft - 2 Bedroom,-73.95952,40.72063,200
+393,911,287,Park Slope Apt: Spacious 2 bedroom,-73.98082,40.67644,165
+394,105,226,NYC Studio for Rent in Townhouse,-73.94794,40.804809999999996,110
+395,716,818,⚡Quiet Gem w/roof deck on NY's Hottest Street⚡,-73.99143000000001,40.72533,395
+396,319,663,Authentic New York City Living ,-73.93038,40.68569,99
+397,613,137,SUPER BIG AND COZY PRIVATE BEDROOM,-73.97255,40.64302,39
+398,289,529,☆Massive DUPLEX☆ 2BR & 2BTH East Village 9+ Guests,-73.98857,40.72939,189
+399,635,358,Gorgeous Upper West Side Apartment,-73.96607,40.79918,85
+400,972,622,Luxe Spacious 2BR 2BA Nr Trains,-73.9926,40.668620000000004,260
+401,974,866,City Room - Street View Apt,-73.94453,40.81333,122
+402,223,488,Cozy and Bright One Bedroom in BK,-73.95199000000001,40.72473,165
+403,496,743,Forest Hills Apt minutes to midtown Manhattan,-73.85262,40.70925,97
+404,424,959,Spacious West Village 1 b/room King,-74.00922,40.73215,170
+405,393,172,Perfect Williamsburg Summer Haven,-73.94332,40.711090000000006,125
+406,98,339,Midtown cozy convenient,-73.97926,40.7463,130
+407,951,843,Prime Williamsburg Apartment,-73.95849,40.71823,225
+408,113,457,Private spacious room in Brooklyn,-73.94886,40.650999999999996,50
+409,590,387,Garden apartment close to Manhattan,-73.97598,40.68626,170
+410,645,851,The Ground Studio - West Side,-74.001,40.74488,132
+411,698,336,Stunning arty 3200sf 3FLR+3BR townhome w/terrace,-73.97616,40.676320000000004,250
+412,904,477,Sunny and Spacious Designer's Home,-73.94254000000001,40.722120000000004,141
+413,489,694,SpaciousSunny private one bedroom,-73.95151,40.67456,64
+414,569,409,Truly Amazing Oasis In The City,-73.96019,40.71363,249
+415,183,166,Holiday Time in NY - Oh My!!,-73.95878,40.6755,79
+416,4,149,East Village King-Sized Charmer,-73.97581,40.72274,185
+417,892,260,Affordable Furnished Apartment,-73.9828,40.6858,120
+418,211,990,Architect's Brownstone,-73.97654,40.67535,495
+419,162,933,LUXURY SOHO 2 Bedroom Apt ,-73.99346,40.72255,375
+420,170,359,Charming Nolita Apartment!!,-73.99706,40.72094,175
+421,250,925,EAST VILLAGE STUDIO sunny & quiet,-73.97813000000001,40.72485,150
+422,65,212,LUXURY OF THE HORIZON,-73.9532,40.80473,259
+423,663,840,1 Bdrm in 4 Bdrm dupelx/roof deck,-73.98419,40.72217,96
+424,895,66,The Heart of Prime Williamsburg,-73.9565,40.719429999999996,145
+425,514,386,Parisian apartment in Chelsea,-74.00329,40.742490000000004,200
+426,428,437,Cozy 2 Bedroom with Private Garden,-73.97294000000001,40.792640000000006,95
+427,610,199,Three-bedroom house in a quiet neighborhood,-73.97675,40.65749,250
+428,822,255,Beautiful Duplex w/Private Garden,-73.94688000000001,40.80474,295
+429,533,506,NYC - Sunny Greenwich Village 1br,-74.00177,40.72831,175
+430,803,400,Garage Designer Loft,-73.94144,40.71541,451
+431,338,770,Best City Area Columbia U Upper West Side C Park,-73.96245,40.79765,165
+432,924,853,Your own apartment off Park Avenue,-73.95331999999999,40.78508,250
+433,204,402,Artsy 1 bedroom Apt. 20 min to 42nd Grand Central!,-73.8639,40.89747,77
+434,445,140,Lower East Side 2 Bed Apt.,-73.98404000000001,40.720079999999996,250
+435,647,314,Astoria-Private Home NYC-,-73.91098000000001,40.75725,129
+436,31,184,BIG COMFY  PRIV. ROOM BIG APT YARD GREAT LOC.,-73.94495,40.7102,98
+437,66,479,Park Slope Apartment,-73.97904,40.673590000000004,150
+438,505,157,CHARMING PRIVATE BEDROOM EAST VILLAGE,-73.9782,40.72674,95
+439,123,526,City Room - Semi Private Bedroom,-73.94570999999999,40.81156,55
+440,747,238,Cozy apartment in a brownstone,-73.95016,40.804970000000004,300
+441,285,68,Female Only Clean15min to Manhattan,-73.91806,40.7385,42
+442,701,788,Greenpoint Spacious Loft,-73.95671,40.72937,125
+443,261,507,Private E. Village Townhouse Stay,-73.98438,40.72587,175
+444,91,137,Harlem/Hamilton Heights Cozy Room,-73.9463,40.824259999999995,75
+445,437,588,Incredible Prime Williamsburg Loft!,-73.96271999999999,40.71624,255
+446,649,637,Large  Loft Style  Studio  Space,-73.94081,40.68101,72
+447,592,288,Hancock Town House!-Stuyvesant Mews,-73.91989000000001,40.686690000000006,165
+448,534,607,Entire Apt in Heart of Williamsburg,-73.95914,40.715340000000005,165
+449,904,506,Clinton Hill + Free Coffee = #smile,-73.96024,40.68288,75
+450,352,184,Nice cozy neat apt GreenpointBK,-73.95494000000001,40.72489,130
+451,439,82,PRIVATE and SUNNY Williamsburg Apt!,-73.94284,40.70867,139
+452,256,471,Purple Room for 2/3 in brownstone $1450 per month,-73.93908,40.679629999999996,88
+453,628,372,Red Room for two in Brownstone for $1355/mo,-73.93908,40.6798,80
+454,58,924,Chelsea living 2BR best location,-73.99882,40.74346,150
+455,423,842,LOCATION LOCATION LOCATION UWS 60's,-73.98109000000001,40.77724,200
+456,707,989,In the heart of East Village,-73.97995,40.72972,200
+457,191,965,Sunny 15min to Manhattan LADY only,-73.91681,40.74102,42
+458,317,35,Surfer room 15mins to downtown NYC!,-73.94128,40.71309,90
+459,746,531,Manhattan Penthouse-Max.12 guests,-73.94633,40.83096,295
+460,551,113,Prime Williamsburg 3 BR with Deck,-73.95745,40.713229999999996,450
+461,386,369,Beautiful Brooklyn Oasis ,-73.9506,40.67212,130
+462,372,705,Blue Room in Awesome Artist's Apartment!,-73.96665,40.710229999999996,89
+463,122,140,Cool & Spacious Harlem Artist Flat,-73.95139,40.80523,198
+464,366,651,☆ STUDIO East Village ☆ Own bath! ☆ Sleeps 4 ☆,-73.98917,40.72636,99
+465,433,405,Greenpoint Loft / Le Chez Andrea,-73.93956,40.72185,46
+466,33,491,*SoHo: Clean Safe Private Peaceful Bedroom (A)*,-73.99683,40.72351,140
+467,747,476,Amazing Brownstone in Best Brooklyn,-73.99233000000001,40.6809,500
+468,721,886,Couldn't Be Closer To Columbia Uni2,-73.95916,40.80525,75
+469,571,915,Lady only Curtain-divided room,-73.91901,40.74,33
+470,721,560,Nice Manhattan Apt Near Central Park and Subway,-73.96049000000001,40.800059999999995,250
+471,476,436,LG Private Room/Family Friendly,-73.92130999999999,40.70283,60
+472,622,63,Spacious Quiet rm - 20mins to Midtown,-73.94303000000001,40.84468,75
+473,656,85,3 BR Beautiful Brooklyn Duplex,-73.99619,40.682520000000004,350
+474,556,404,Spacious modern studio apartment in Manhattan,-73.99483000000001,40.74342,205
+475,119,730,Gorgeous Duplex + Garden,-73.98089,40.67853,219
+476,733,810,CBG# 4Tiny room w/ huge window/AC,-73.97643000000001,40.6788,60
+477,4,809,Charming upper west side apartment,-73.98042,40.778859999999995,185
+478,299,509,Light-filled East Village Delight,-73.97879,40.72578,190
+479,802,287,Sunny quiet legal homelike suite-Pk Slope South,-73.98536999999999,40.66085,105
+480,115,309,Spacious Duplex in Brownstone!,-73.94503,40.80113,250
+481,768,265,Lovely Vintage Haven—Heart of UWS,-73.97581,40.78569,175
+482,731,577,Modern Space in Charming Pre-war,-73.94934,40.82411,65
+483,795,798,Warehouse Loft with Garden view,-73.95331999999999,40.681309999999996,75
+484,975,488, Affordable & Cozy ,-73.90675,40.858109999999996,37
+485,721,66,Creative Vintage Loft in S. Williamsburg,-73.96524000000001,40.70667,85
+486,813,168,Very close to Downtown Awesome Private Apartment,-73.97103,40.60452,106
+487,93,855,The Happy home!,-73.94006999999999,40.7932,79
+488,977,691,Fort Greene Brooklyn: Front Bedroom,-73.97610999999999,40.68768,85
+489,203,488,Gorgeous 1 bdrm in huge duplex!,-73.94558,40.802240000000005,170
+490,107,263,Sunny cozy room in Lower East Side,-73.98841999999999,40.714729999999996,115
+491,41,463,Large Quiet Bedroom Near Columbia U,-73.95359,40.80518,89
+492,540,683,Cozy Pre-War Harlem Apartment,-73.95329,40.80827,49
+493,463,804,spacious studio,-73.95812,40.729009999999995,91
+494,913,742,Elegant 2-BR duplex Union Square,-73.98451999999999,40.734759999999994,400
+495,107,863,Cozy private family home in Bushwick,-73.92357,40.69055,150
+496,296,657,Luxury 2Bed/2.5Bath Central Park View,-73.98697,40.7735,2000
+497,111,666,Cosy Sunny 1brm in Prospect Heights,-73.95969000000001,40.67505,97
+498,581,355,East Village bedroom w rooftop,-73.98201,40.72974,100
+499,589,710,Williamsburg Home Away From Home!,-73.95425,40.70925,179
+500,398,332,Brand New Beautiful Duplex Apartment with Garden,-73.95226,40.72315,500
+501,982,894,PRIME Luxury Spacious 2 Bedroom Apt in Chelsea,-73.99611999999999,40.73939,429
+502,991,170,SPACIOUS ALCOVE STUDIO/ JUNIOR ONE,-73.97686,40.74112,189
+503,616,710,High-end doorman bldg in the LES,-73.98217,40.72019,120
+504,635,369,Spring & Mulberry 2 Bedroom Apartment,-73.99665999999999,40.72133,300
+505,151,353,Ultra Modern NYC Garden Apartment,-73.92163000000001,40.75744,107
+506,474,275,Modern Garden Apartment in NYC,-73.9202,40.75695,95
+507,592,877,Gorgeous Entire Manhattan Townhouse,-73.94651,40.8296,199
+508,982,430,Cozy studio Apartment in Upper East,-73.9468,40.79056,120
+509,250,300,Historic classic central cozy Village clean NYU,-73.99977,40.736309999999996,199
+510,192,472,A PRIVATE FLAT / APARTMENT- $SPECIAL$,-73.85709,40.86466,125
+511,84,904,Williamsburg bedroom by Bedford Ave,-73.96199,40.71312,70
+512,827,327,Clean and bright with a comfortable atmosphere,-73.94336,40.71297,75
+513,414,212,WEST VILLAGE LRG CLEAN SUNNY PRIVATE BDRM,-74.00166,40.737120000000004,100
+514,817,433,Historic Brooklyn Studio Apartment,-73.95097,40.69242,99
+515,75,883,Comfort at Crossroads of Downtown,-73.99758,40.738620000000004,250
+516,368,674,The Oasis on Bedford Williamsburg,-73.95803000000001,40.7158,350
+517,227,983,Large sunny garden apartment,-73.97299,40.68262,170
+518,299,856,UNION SQUARE/ E. VILL 1BR BEAUTIFUL,-73.98801,40.73217,165
+519,716,422,Hell's Kitchen Funky 80's Hideaway!,-73.99388,40.76311,99
+520,718,303,Room in Chic Modern High Line Luxury- New!,-74.00454,40.74695,255
+521,657,551,Family & Friends in New York City,-73.87305,40.67497,169
+522,171,632,Spacious & Comfy BK Brownstone,-73.94813,40.66788,99
+523,522,129,Large Luxury Upper East Side Studio,-73.95944,40.76684,169
+524,684,569,Chateau Style Brooklyn Loft for Singles or Couples,-73.95445,40.68967,160
+525,646,716,Lovely Brooklyn Brownstone 1BR!,-73.96500999999999,40.67946,215
+526,826,46,Beautiful Grdn. Apt. in Park Slope,-73.98083000000001,40.66944,130
+527,949,56,Sun-drenched East Village Penthouse,-73.97748,40.72566,110
+528,61,361,Columbus Circle Luxury Bldg - Private Room&Bath,-73.99181,40.7709,150
+529,607,732,Bright Private Bedroom in Williamsburg (Bedford L),-73.95958,40.719429999999996,65
+530,831,443,Spacious Kid-Friendly and 15-20 Mins. to Midtown,-73.92466,40.742490000000004,75
+531,60,524,Quiet Chelsea Studio w/Charm,-74.00024,40.74033,149
+532,636,136,Large Room Overlooking Central Park,-73.96128,40.7969,89
+533,777,730,Cheerful comfortable room,-73.94553,40.83403,50
+534,14,277,Hospitality on Propsect Pk-12 yrs Hosting Legally!,-73.95640999999999,40.65513,43
+535,126,454,Prospect Pk*NYC in 5 stops* CozyClean & Legal!,-73.95539000000001,40.65589,42
+536,239,134,Loft Style Apt in Williamsburg,-73.94501,40.70275,85
+537,495,426,2 Beds over Bed-Stuy,-73.93569000000001,40.68897,139
+538,862,606,Sunny Large Park Slope Bedroom,-73.98136,40.67617,105
+539,411,995,Huge Bklyn Loft w Private Roofdeck,-73.98053,40.67595,265
+540,998,356,Quiet Jr Alcove Near Times Square!,-73.99067,40.76415,149
+541,486,165,Large room in elevator drman bldg,-73.94718,40.83127,68
+542,472,243,Comfy Cozy Brooklyn close to Manhattan,-73.95591999999999,40.68497,99
+543,387,581,Modern Bedroom in Hamilton Heights,-73.94174,40.82922,75
+544,642,637,Sunny Space in Williamsburg,-73.94362,40.71137,100
+545,104,21,Best Manhattan Studio Deal!   ,-73.9557,40.76739,90
+546,513,274,STYLISH EAST VILLAGE FLAT,-73.98195,40.73089,160
+547,506,106,Serene Park Slope Garden Apartment,-73.97859,40.6755,190
+548,86,817,Cozy and spacious - rare for NYC!,-73.94934,40.68812,67
+549,193,349,Beautiful UES apartment,-73.9572,40.7694,190
+550,466,939,St. James Pl Garden Studio 1block to PRATT &Gtrain,-73.96161,40.68634,248
+551,687,83,Great spacious apt in Williamsburg,-73.9497,40.7093,100
+552,42,253,Comfortable. Spacious. Private Room.,-73.99752,40.713,95
+553,111,513,Modern Condo in Midtown,-73.9883,40.75895,150
+554,504,733,Ideal Brooklyn Brownstone Apartment,-73.94113,40.68186,145
+555,84,870,A Cozy Oasis in Bushwick NY,-73.91076,40.683640000000004,41
+556,380,772,Private Entrance - Private Parking,-73.9428,40.71893,120
+557,959,970,Yankee Stadium Oasis 2 stops to Manhattan!,-73.92039,40.82802,50
+558,136,392,Sunny Spacious Studio in Ft.Greene,-73.97073,40.68765,157
+559,113,738,Williamsburg Exposed Brick Loft,-73.96596,40.71413,195
+560,96,527,Bright Modern Charming Housebarge,-73.94079,40.58422,70
+561,260,735,Central Bedford Avenue Apartment,-73.95581999999999,40.71973,185
+562,824,466,Welcome to Brooklyn! Bed-Stuy,-73.93323000000001,40.69025,145
+563,542,813,Sunnyside NYC/ AC room/ city views/ near Midtown,-73.92458,40.73826,50
+564,879,801,Greenpoint Waterfront Loft,-73.96115,40.73049,185
+565,481,707,East Village House -- Unique!,-73.97903000000001,40.72956,250
+566,124,404,2-bedroom share in heart of Greenwich Village!,-74.00820999999999,40.73854,80
+567,721,119,1 Bedroom Pre War apt,-73.98863,40.75877,230
+568,192,6,Quiet One Bedroom in Park Slope,-73.9859,40.67688,100
+569,331,269,CreaTive Live-In Artspace/Birdsnest,-73.92204,40.700509999999994,40
+570,359,800,RARE Penthouse Oasis featured on DesignSponge,-73.98898,40.71712,200
+571,29,992,New Clean Spacious Bed & Breakfast,-74.14388000000001,40.60742,80
+572,616,662,Sunny calm room in Victorian home,-73.95741,40.68741,79
+573,867,302,Modern Unique Studio in NYC,-73.9211,40.75627,95
+574,358,143,2 Bed 2 Bath Apartment on Central Park West,-73.9619,40.798159999999996,300
+575,115,441,Luxury Furnished 1 bedro Bay Ridge,-74.0307,40.61927,100
+576,542,977,Your Haven in the Upper West Side,-73.95208000000001,40.8078,80
+577,122,880,Wonderful Studio In Brooklyn NY!!!,-73.99399,40.61922,110
+578,120,275,A Cozy Brooklyn Hideaway,-73.96148000000001,40.68275,172
+579,29,131,✿✿✿ COUNTRY COTTAGE IN THE CITY✿✿✿,-73.98416,40.71813,199
+580,882,900,✿✿✿ COUNTRY COTTAGE IN THE CITY✿✿✿,-73.98401,40.718920000000004,199
+581,513,881,Lovely Bdr in Harlem Manhattan,-73.95545,40.816,100
+582,838,667,THE BEST DEAL ON THE HUDSON RIVER!!,-73.95153,40.82748,55
+583,746,465,Lovely HUGE Master Bed + Study,-73.95088,40.68634,75
+584,447,704,Newly Reno’d Chic Quiet Exec 1BR,-73.97901,40.72229,146
+585,164,356,1 Bedroom in prime Flatiron,-73.99287,40.72956,250
+586,732,924,Large Artist Floorthru- Greenpoint,-73.95298000000001,40.72595,116
+587,19,702,Gorgeous PermaGO Private Room in FiDi - 1/2,-74.00816999999999,40.711929999999995,150
+588,697,752,CBG Helps Haiti Rm #3,-73.97847,40.68012,120
+589,868,22,BEST DEAL IN CHELSEA 1 bdrm NYC,-73.99865,40.742329999999995,199
+590,965,972,Lovely Apartment,-73.96665,40.674240000000005,150
+591,892,990,Artsy Loft-like Harlem Apartment,-73.95298000000001,40.80486,69
+592,292,176,Harlem/Manhattan Classic Apartment,-73.95048,40.80307,300
+593,39,695,BEAUTIFUL APARTMENT GREAT LOCATION,-73.98562,40.68653,230
+594,159,204,Quiet sunny studio Midtown,-73.98569,40.742670000000004,125
+595,583,604,Charming room in Victorian home,-73.95494000000001,40.687490000000004,79
+596,759,458,Brooklyn B & B close to Manhattan,-73.97538,40.68645,130
+597,745,874,The Notorious B.N.B. { The Erhart },-73.96710999999999,40.68999,239
+598,907,441,Sunny cozy multileveled apartment!,-74.06824,40.61077,75
+599,109,778,Sunny 2 bedroom Williamsburg Duplex w/ 3 beds,-73.94575999999999,40.711259999999996,220
+600,426,578,ROOM WITH KITCHENETTE #2,-73.94949,40.67855,80
+601,287,759,Alpha-Bet City entire floor large cool 2br -L.E.S,-73.9853,40.72416,288
+602,793,609,Your Haven Awaits At Emma's Place,-73.92520999999999,40.685159999999996,135
+603,239,974,Spacious Kid-Friendly 2 BR in West Village,-74.00048000000001,40.73507,225
+604,756,140,Great Bedroom in Downtown Manhattan,-73.99828000000001,40.71611,110
+605,282,519,Beautiful Brownstone,-73.93946,40.67964,100
+606,328,345,1BDR - Hell's Kitchen Hideaway,-73.99,40.76189,130
+607,814,946,COMFY ROOM/COFFEE AND BAGEL/WEEKLY DISCOUNT,-73.98035,40.72645,89
+608,302,988,Oversized Studio in Park Slope,-73.99833000000001,40.662929999999996,200
+609,66,51,Apt with EmpireState view-Subway around the corner,-73.95167,40.690459999999995,80
+610,940,729,Zen Yankee Stadium Pad 5 Minutes To Manhattan!,-73.92158,40.830009999999994,50
+611,588,73,Monthly Apartment Rental,-73.94535,40.792390000000005,135
+612,863,226,Wonderfully inviting East Village,-73.98274,40.727090000000004,90
+613,518,309,TURQUOISE: One-Bedroom Apt. in Soho,-74.00168000000001,40.72599,270
+614,743,946,Lovely pied-à-terre in an historic building,-73.94219,40.68309,110
+615,31,103,Spacious well furnished high fl. beautiful views,-73.93433,40.79442,145
+616,973,873,NYC Studio in Heart of Times Square,-73.99675,40.76166,179
+617,318,76,rooms for rent in Queens with piano,-73.90867,40.70163,55
+618,122,279,Large Sunny Luxe Prvt Room/Midtown,-73.96842,40.75575,110
+619,411,526,Spacious Stunning Harlem Townhouse,-73.94197,40.80903,325
+620,73,241,Private Room With GREAT Location,-73.95295,40.74581,75
+621,794,514,HUGE Sunny Duplex Loft with Garden,-73.98574,40.66414,300
+622,805,949,LARGE ARTSY Room w/ Loft Bed 4 DOOGLERS!,-74.00381,40.74,130
+623,671,601,Stylish Studio with exclusive Terrace,-73.97065,40.753479999999996,190
+624,571,693,LES private apt 1 bedroom & more,-73.98506,40.720659999999995,200
+625,851,809,Williamsburg Garden Home 5 minutes from Manhattan,-73.95496999999999,40.717459999999996,180
+626,713,435,HUGE modern 2-LEVEL Brooklyn apt,-73.9847,40.70257,350
+627,252,86,charming 2bdrm apt in East Village,-73.9837,40.722640000000006,160
+628,808,82,LOCATION LOCATION LOCATION Liz's,-73.98186,40.73833,195
+629,333,263,Manhattan Loft in Prime East Village Location,-73.99255,40.73268,241
+630,929,864,Nolita Penthouse_Private Deck_Elev_,-73.99628,40.718920000000004,300
+631,747,771,Astoria Garden Suite,-73.91686999999999,40.776790000000005,75
+632,533,714,Lower East Side/Chinatown 1 Bedroom,-73.98948,40.71693,100
+633,188,490,Amazing 1 bed live like a Newyorkr,-73.98359,40.73685,399
+634,429,220,Private Room in Fort Green BK close to city,-73.97019,40.68501,85
+635,860,946,Spacious & Charming by Prospect Pk,-73.96003,40.66068,80
+636,61,915,Private Room Near Brooklyn Museum ,-73.96542,40.67722,55
+637,996,311,The Notorious B.N.B. { The Wallace },-73.96703000000001,40.68975,438
+638,207,878,Clinton Hill 1 Bed Bright Loft Apartment,-73.95866,40.692209999999996,110
+639,346,619,Great Studio in W. Village - NYC!,-74.00635,40.729690000000005,200
+640,599,795,The Notorious B.N.B. { The Swoon },-73.96602,40.6893,279
+641,473,282,BIG 1br SLEEPS 4 dishwashr TV,-73.94157,40.70832,137
+642,126,845,2BR  Apt - 20min to Soho,-73.94878,40.68016,280
+643,457,910,Williamsburg  - Quiet and Comfy stay,-73.95508000000001,40.70875,199
+644,956,138,One Fabulous Private Room,-73.92886,40.85888,71
+645,857,621,NY/ Big Room for 2 near Manhattan,-73.90023000000001,40.8679,42
+646,956,632,Brooklyn Brownstone apartment,-73.95383000000001,40.6889,180
+647,708,904,big 1 bedroom apt very central,-73.99637,40.75127,226
+648,662,357,Lovely Large Room in Crown Heights,-73.94421,40.67607,85
+649,993,166,Sweet Apt Steps From Gramercy Park,-73.9823,40.73834,135
+650,640,931,Quality Cozy Studio Next to Subway,-73.88065999999999,40.7347,79
+651,394,133,Scandinavian-apt for up to 5. LES,-73.98850999999999,40.718759999999996,154
+652,885,264,Loft Suite @ Box House Hotel,-73.95385,40.73787,199
+653,207,701,4 BEDROOM -2BATHRM WEST VILLAGE DUPLEX  TOWNHOUSE,-74.00287,40.73066,700
+654,96,750,Large & bright 900ft² 1br in WV,-74.00059,40.73291,246
+655,599,759,At a very nice area in the WestSide,-73.92822,40.85099,125
+656,853,934,HANCOCK VERY SMALL ROOM,-73.91918000000001,40.68707,100
+657,329,422,Pre-War Williamsburg Loft,-73.96019,40.7184,295
+658,484,539,1 Bedroom Available In My Two Bedroom Flat,-73.95563,40.67495,150
+659,293,578,SPACIOUS PRIVATE LITTLE ITALY FLAT,-73.99902,40.71582,119
+660,256,257,The Lenox in Harlem,-73.94288,40.81068,125
+661,695,994,The Lenox in Harlem,-73.94279,40.81122,400
+662,234,200, Heart & Soul of Greenwich Village ,-73.99944,40.73129,850
+663,264,539,Prime Williamsburg Loft off Bedford,-73.95737,40.71628,129
+664,479,820,Private Bdrm /Bath 1 block Ctrl Prk,-73.9726,40.785579999999996,140
+665,815,813,+Highly Satisfactory LES dwelling++,-73.991,40.7146,115
+666,211,328,Whole apartment / 2 bedroom in NYC,-73.94462,40.79493,200
+667,675,104,Spacious modern loft in awesome neighborhood,-73.99049000000001,40.6623,96
+668,231,34,Loft Suite @ The Box House Hotel,-73.95284000000001,40.73693,199
+669,315,21,Loft Suite @ The Box House Hotel,-73.9533,40.73641,199
+670,321,913,Loft Suite @ The Box House Hotel,-73.95254,40.73794,199
+671,621,966,Well Kept  Private Room around  Brighton  Beach,-73.96726,40.58147,69
+672,748,675,Large 1 Bedroom furnished on UWS,-73.96323000000001,40.797709999999995,185
+673,108,171,Chez Carine - Privacy in Manhattan,-73.94691999999999,40.81512,81
+674,147,717,Loft Suite @ Box House Hotel,-73.95323,40.7373,199
+675,134,672,Loft Suite @ The Box House Hotel,-73.95271,40.73708,199
+676,658,459,Loft Suite @ The Box House Hotel,-73.95236,40.73652,199
+677,182,222,Loft Suite @ The Box House Hotel,-73.95316,40.73693,199
+678,337,548,Loft Suite @ The Box House Hotel,-73.95324000000001,40.737840000000006,199
+679,992,586,Duplex w/ Terrace @ Box House Hotel,-73.95246999999999,40.736740000000005,349
+680,661,972,Loft w/ Terrace @ Box House Hotel,-73.95259,40.737829999999995,249
+681,748,514,1 BR w/ Terrace @ Box House Hotel,-73.95296,40.737140000000004,299
+682,1,344,Superior @ Box House,-73.9545,40.73731,179
+683,373,108,Read it 1st A seprat fur BR low $,-73.89344,40.74965,54
+684,545,570,2 BR Duplex @ Box House Hotel,-73.95316,40.73793,599
+685,954,916,Husband & Wife Art-Filled Apartment,-73.96549,40.68197,110
+686,170,208,3BR 2 bathroom condo in Bushwick,-73.91566,40.702709999999996,220
+688,760,568,Cozy 2 Bedroom 20 Min from City,-73.94885,40.692409999999995,170
+689,957,92,NOLITA! LOCATION! LOCATION! VIEWS! FREE GYM!,-73.99424,40.720040000000004,495
+690,706,987,Entire apt NYC Queens. 15 min from Times Square.,-73.92398,40.74511,80
+691,699,509,Luxury Chelsea Townhouse at the High Line,-74.00253000000001,40.74599,760
+692,934,656,Alchemy BnB - room in artist loft,-73.99385,40.68946,98
+693,746,666,Sunny! 2br Steps to train/restaurants - 15 to NYC,-73.95473,40.68226,125
+694,598,883,Zen Den (Airport Pickup: JFK & LGA),-73.8896,40.67855,48
+695,522,247,Heart of Williamsburg. Brand New.,-73.9489,40.714079999999996,64
+696,834,917,Fresh Clean Brooklyn Garden Apt.,-73.96144,40.68618,154
+697,748,325,Guest Apartment in Owner Occupied Home,-73.98454,40.673790000000004,139
+698,561,456,My Home Is Your Home,-73.76637,40.70554,75
+699,656,868,Spacious & Stylish Chelsea One Bedroom Apartment,-74.00532,40.74031,325
+700,534,371,CHELSEA 1 Bdrm Plus Sleeping Loft!!,-74.00392,40.746179999999995,195
+701,406,857,Spacious room in beautiful apt! ,-73.94566999999999,40.81872,58
+702,808,819,Oceanviewclose to Manhattan,-74.06479,40.59251,250
+703,540,44,Affordable roomsall transportation,-74.06685,40.59101,50
+704,842,674,Budget stay near transportation,-74.06659,40.592620000000004,125
+705,823,99,Fort Greene brownstone 1BR- SUBLET,-73.97203,40.69142,70
+706,833,929,NewYork Modern Pre-War LoftStudio ,-73.95021,40.76928,189
+707,280,462,Cozy Artist Duplex **Bedstuy Charm**,-73.95289,40.68338,130
+708,595,233,Apartment in Best location in NYC,-74.00461999999999,40.72953,145
+709,578,203,Inspired in Historic Downtown NYC!,-74.01345,40.70523,101
+710,14,586,Chelsea/West Village - 2bdrm apt,-74.00161,40.74025,95
+711,309,406,1500+ sq ft 2BR West Village Loft,-74.00429,40.733779999999996,375
+712,82,839,Cozy & Clean Lower East Side Apt.,-73.99022,40.72087,153
+713,667,960,Spacious Townhome Apt in Brooklyn,-73.94219,40.64468,92
+714,396,420,Chic + Stylish room in heart of LowerEastSide NYC!,-73.98966,40.7193,80
+715,636,993,Landmark 2 Bedroom West Village NYC,-74.0042,40.73312,300
+716,173,859,2 bedroom apt in charming brick townhouse,-73.97676,40.69778,145
+717,475,721,Room in East Village with Private Entrance,-73.98591,40.72534,88
+718,129,334,Cozy&Clean in a great neighborhood,-73.94516,40.821509999999996,155
+719,674,587,Prime Williamsburg 1/BD New Condo,-73.9567,40.72059,185
+720,821,732,City Skyline Views from every room!,-73.92324,40.74558,73
+721,665,163,Contemporary & Classic Sanctuary on the Hudson,-73.9765,40.79433,225
+722,570,919,Comfortable Manhattanville,-73.95549,40.81055,85
+723,815,961,Private room w/ queen bed + rooftop,-73.95231,40.6711,99
+724,918,15,Zen Eyrie –Airport Pick-Up: JFK/LGA,-73.88928,40.67962,48
+725,807,973,Studio sublet in Hell's kitchen,-73.98411,40.762170000000005,200
+726,53,216,Luxury NYC 2 Bedroom with Terrace,-73.96463,40.76128,485
+727,757,138,Bright unique designer loft in Soho,-73.99438,40.72313,310
+728,587,595,Spacious  2 bed Loft apartment Bedford L,-73.95576,40.7177,110
+729,230,296,Beautiful studio by Central Park,-73.97289,40.78448,109
+730,651,543,One bed suite with private garden,-73.97447,40.78304,167
+731,528,812,SUNNY 1 Bedroom APT in Fort Greene - BROOKLYN,-73.97125,40.68737,147
+732,741,28,West Village cozy 2 bedroom  NYC ,-74.0005,40.74139,220
+733,422,856,2 Bedroom Gem - Prime LES Location,-73.98773,40.71992,195
+734,565,158,REAL 2BR-HEART OF SOHO-LITTLE ITALY,-73.99677,40.71905,199
+735,90,800,BIG ROOM / DOWNTOWN  LOFT /,-74.00102,40.707409999999996,65
+736,308,985,Large Sunny Bedroom in QNS NYC,-73.86009,40.73349,55
+737,464,53,Home Away From Home-Room in Bronx,-73.8447,40.89557,50
+738,540,523,Private clean pleasant spacious room.,-73.97296,40.64277,60
+739,406,806,Charming Hotel Alternative Mount Sinai,-73.94466,40.791109999999996,99
+740,369,611,SUNNY 2-bdrm CHILD-friendly Uptwn by Centrl Park!,-73.95257,40.79951,130
+741,957,960,Resort-like living in Williamsburg,-73.93974,40.71647,290
+742,97,536,Hudson Yards with views of The Highline Park,-74.00195,40.75114,350
+743,20,188,Brooklyn: A Huge Bedroom + Good Vibes,-73.93216,40.66431,50
+744,591,21,One stop from Midtown Manhattan!,-73.95012,40.74579,96
+745,157,902,Private Room Very Near L train Bushwick,-73.92673,40.70278,45
+746,597,351,Cozy New York  City private room,-73.91122,40.74409,85
+747,469,455,Bed-stuy Royal Room,-73.93254,40.68812,34
+748,513,795,SUPER CUTE EAST VILLAGE APARTMENT,-73.99150999999999,40.724540000000005,250
+749,297,483,GREAP STUDIO / 4PPL IN MIDTOWN,-73.96207,40.71073,190
+750,52,293,BEDFORD AV.  ROOM IN WILLIAMSBURG..,-73.96128,40.71028,75
+751,681,49,Sleep & Wake near Botanical Gardens,-73.96131,40.65772,93
+752,518,714,Tranquil in the heart of Brooklyn 2,-73.95059,40.68884,60
+753,126,634,Tranquil in the heart of Brooklyn 1,-73.95371999999999,40.6865,65
+754,550,401,Easy comfortable studio in Midtown,-73.97315,40.75282,125
+755,575,720,Huge luxury 1BR apt near Central Park South(4 ppl),-73.96897,40.763729999999995,300
+756,561,972,Beautiful brownstone apartment,-73.99452,40.73388,150
+757,53,271,1 Bd. MANHATTAN NY Entire Apt. 1 yr-6 months min.,-73.92900999999999,40.85774,56
+758,362,534,Luxury Designer Downtown Apartment,-73.98465,40.722570000000005,299
+759,978,273,Spacious room on charming block in Greenpoint!,-73.95728000000001,40.72723,60
+760,412,599,SUNNY SPACIOUS APT. in  FT. GREENE,-73.97321,40.69135,88
+761,789,443,Guest Room in Authentic Williamsburg Factory Loft,-73.95505,40.70513,60
+762,698,594,6 Bedroom Landmark West Village Townhouse,-74.00268,40.73301,1300
+763,163,128,Beautiful bed and bath - Manhattan,-73.93611999999999,40.79793,200
+764,850,55,Beautiful Room Near Central Park!,-73.95166,40.80285,99
+765,574,602,Fantastic 1-bedroom basement apt.,-73.91665,40.70642,110
+766,20,13,Private Clinton Hill Brooklyn Apt,-73.96537,40.68156,135
+767,529,824,Charming furnished Studio-Loft,-73.95198,40.77368,110
+768,454,714,Lovely 2 bedroom apartment with backyard access,-73.93701999999999,40.68631,165
+769,574,325,Nights in White Satin in the Slope,-73.99042,40.65992,127
+770,894,357,The Carlton Brooklyn brownstone Duplex w/ garden,-73.97038,40.678470000000004,402
+771,134,504,Comfortable Manhattanville.,-73.95585,40.81371,85
+772,553,702,Beautiful lrg 1800's syle apt share,-73.95835,40.72868,75
+773,632,406,Location wins for East Village Apt,-73.98662,40.73168,139
+774,760,143,Sunny Entire Apt with Romantic Bedroom,-73.9533,40.656890000000004,70
+775,328,24,Furnished room for rent - Manhattan,-73.93966999999999,40.7928,50
+776,729,171,Large Room in a Huge NY apartment.,-73.91905,40.77117,30
+777,223,373,West Village NYC Sun-filled Studio!,-74.00806999999999,40.73729,250
+778,500,424,Large furnished room in a 2 bedroom!,-73.95141,40.66984,64
+779,267,750,Huge Apartment!  Amazing View!,-73.94071,40.82977,300
+780,614,771,#1 Yellow Block BnB/see at Net Flix Show Stay Here,-73.95489,40.68492,800
+781,434,489,Cozy Brownstone Inn I(studio),-73.91957,40.68255,100
+782,471,680,Crown Height's Brooklyn Cozy Apt,-73.94662,40.67392,250
+783,394,568,Amazing West Village 2br,-74.00425,40.73879,200
+784,301,219,Authentic NY Charming Artist Loft,-73.95586999999999,40.73321,140
+785,449,111,Beautiful Private Bedroom - Downstairs,-73.95082,40.806709999999995,130
+786,472,500,Kensington/Ditmas Park pied-a-terre,-73.97386,40.6433,90
+787,380,970,QT STUDIO FOR ROMANTIC COUPLES,-73.99123,40.71601,90
+788,776,341,Own Room & Bath Sunny Town House 18 to Wall St,-73.9292,40.681059999999995,97
+789,232,532,Cozy & Charming Boerum Hill Flat,-73.98879000000001,40.681309999999996,91
+790,826,756,Park Slope Brooklyn!  Sunny Bedroom.,-73.98136,40.67264,125
+791,408,40,One bedroom sharing Bathroom,-73.86404,40.67889,75
+792,176,416,Spacious East Village Apartment,-73.97899,40.7241,180
+793,67,758,Huge Williamsburg Loft..Perfect for Big Groups!,-73.95191,40.70766,300
+794,969,115,Stylish Garden House - Trendy area,-73.9484,40.714220000000005,100
+795,526,206,Hells Kitchen Ground Fl 1-bedroom,-73.99133,40.76001,175
+796,857,582,Pre War Park Slope on Prospect Park,-73.97974,40.66441,65
+797,652,932,Charming Apt in the Best Location!,-74.00923,40.73362,240
+798,452,922,Huge room with private balcony,-73.98819,40.731190000000005,300
+799,186,351,Amazing 1 bedroom apt with NYC View,-73.9998,40.74494,385
+800,334,726,Great spacious room by the L train!,-73.9129,40.69657,47
+801,39,820,Charming Brooklyn Studio,-73.95463000000001,40.67106,110
+802,298,364,Private Room in Brownstone,-73.95589,40.80748,75
+803,68,162,Bed Stuy Pride! Welcome to Brooklyn,-73.93179,40.68991,100
+804,970,989,Lovely Hell's Kitchen Studio...,-73.99152,40.76147,165
+805,10,835,HOT SPOT FOR 20 AND 30 SOMETHING'S,-73.91920999999999,40.681740000000005,300
+806,427,808,Cozy Clean Cobble Hill Brownstone,-74.00056,40.68538,140
+807,918,960,Bright Loft Apt w Skylight in Wburg,-73.94289,40.70839,120
+808,142,72,Cozy beautiful doormen studio-,-73.98106999999999,40.69018,175
+809,951,910,Carroll Gardens Gem-2BD with Garden,-73.99521999999999,40.68128,275
+810,674,214,Sunny 1BR Center of East Village!,-73.98694,40.72948,179
+811,893,152,2BR in Cobble Hill Brooklyn NY,-73.9914,40.68353,189
+812,984,715,Perfect East Village Apartment,-73.98865,40.72506,219
+813,791,965,Decorators 5-Star Flat West Village,-74.00293,40.72891,450
+814,318,79,Beautiful SoHo Luxury Apartment,-73.99916,40.7253,249
+815,499,290,2 Rooms in Cottage NYC,-73.93228,40.75295,65
+816,9,192,Zen Minimalist w/Garden- Bedford L Stop,-73.95251999999999,40.71947,250
+817,678,161,Between Two Bridges 2BD -Whole Apt!,-73.99703000000001,40.71283,139
+818,263,996,BIG LUXURY LINCOLN CENTER AREA STUDIO + !!,-73.98886999999999,40.773379999999996,209
+819,455,430,Brooklyn Beauty - Large 2 bedroom Apartment,-73.94405,40.67385,120
+820,880,976,Entire Apartment in Astoria 15mins from Manhattan,-73.91828000000001,40.76856,70
+821,961,943,Gorgeous pvt room in West Village,-74.00378,40.73908,90
+822,204,671,1 bedroom apt in Midtown West,-73.9869,40.7625,199
+823,46,441,Sunny and spacious bedroom,-73.91187,40.69755,50
+824,390,223,Beautiful Spacious One Bedroom,-73.96,40.67335,100
+825,797,233,Room next to Columbia Uni.,-73.95146,40.804970000000004,110
+826,238,728,Big Apt for Funky Art /Music Lovers Outdoor Patio,-73.94331,40.707359999999994,157
+827,743,340,Loft Suite @ The Box House Hotel,-73.9543,40.73683,199
+828,922,623,NYC Summer Getaway | Full Home 2BR,-73.92607,40.76444,192
+829,61,467,Loft Suite @ The Box House Hotel,-73.95395,40.7389,199
+830,23,258,Beautiful New Garden Apartment ,-73.97808,40.776109999999996,150
+831,957,576,Loft Suite @ Box House Hotel,-73.95461999999999,40.73806,199
+832,530,802,Loft Suite @ The Box House Hotel,-73.95479,40.73661,199
+833,698,562,Loft Suite @ The Box House Hotel,-73.95435,40.73857,199
+834,540,905,Lovely apt in Williamsburg BK,-73.96225,40.711,105
+835,568,840,Williamsburg HUGE SUNNY next2train!,-73.95365,40.70686,135
+836,824,780,Loft Suite @ Box House Hotel,-73.95299,40.73857,199
+837,373,100,Modern apartment w/ gorgeous view,-73.95239000000001,40.71095,125
+838,69,793,Sunny clean br available,-73.94881,40.709179999999996,60
+839,686,371,Have Whole Apt! Prime Williamsburg!,-73.96573000000001,40.71685,85
+840,668,335,Panoramic View Central Park & NYC,-73.96762,40.7909,300
+841,913,807,E Williamsburg Apartment with Yard,-73.94159,40.71143,75
+842,658,87,Nice Private Room Beauty in Queens,-73.87444,40.736999999999995,55
+843,9,268,Sublet in Brooklyn/Lefferts Gardens,-73.96091,40.66469,44
+844,461,948,Cozy Corner Bedford Ave  Brooklyn!,-73.95405,40.68855,55
+845,676,286,HISTORIC WILLIAMSBURG BKLYN #1,-73.95554,40.71653,30
+846,750,709,Inexpensive apartment in exchange for cat-care,-73.97074,40.693090000000005,35
+847,410,106,Private room in 2 br Apt Wburg BK,-73.96627,40.706379999999996,70
+848,539,62,Bright Airy Williamsburg Apt,-73.95786,40.71629,130
+849,256,693,Large Double Room  Queenbed Wifi,-73.94675,40.68622,52
+850,675,787,Low$pacious in Williamsburg Bklyn,-73.94609,40.71635,75
+851,144,282,1 Bdrm in 2 Bdrm Apt in Upper East Lux Drmn Bldng,-73.95307,40.77272,190
+852,772,651,Charming 1BD in SoHo,-74.00304,40.72509,250
+853,745,297,Feel like you never leave your home,-73.89232,40.66795,100
+854,291,788,Sunny apartment  in Greenpoint,-73.95843,40.72582,130
+855,866,309,Furnished Bedroom with private half bath,-73.95433,40.80637,140
+856,688,667,Sunny private room featured in film,-73.96855,40.64387,75
+857,706,483,Sunny 1BR East Harlem Apartment,-73.93611,40.7968,150
+858,149,861,The best studio in town,-73.94463,40.79596,90
+859,822,787,Fully Furnished 1B/1BTH UWS GEM  1 YR Sublease,-73.98439,40.780120000000004,295
+860,298,514,Penthouse Studio by Central Park,-73.9799,40.775079999999996,150
+861,575,82,Your Own 2 Br Apt Bedford and Grand,-73.96064,40.71532,180
+862,975,913,Spacious + Sunny Studio in Ft. Greene Brooklyn!,-73.97421,40.68786,135
+863,453,928,2 rooms private entrance & bath!,-73.91986999999999,40.70793,65
+864,319,718,Giant Sunny Bedroom & Private Bath in my Apartment,-73.97513000000001,40.790440000000004,99
+865,753,682,Prime location! Backyard & outdoor shower! Unique!,-73.95761999999999,40.72668,149
+866,232,116,Private Room in Artist's Home Stapleton SI,-74.07848,40.62318,59
+867,740,244,Large Sunny Bedroom with Bay Window,-73.94596,40.82286,75
+868,864,955,Harlem/Hamilton Heights Sunny Room,-73.94457,40.82451,75
+869,6,168,Clinton Hill Duplex near Pratt w/Balcony!,-73.95926999999999,40.69348,75
+870,117,992,Sunny 1 BR West 80s & Central Park,-73.97399,40.78443,109
+871,252,960,2 BD / 2BA WITH GARDEN SLEEPS 6,-73.95639,40.676790000000004,225
+872,486,639,COMFORTABLE ROOM,-73.94381,40.79107,86
+873,133,107,Charming Ridgewood Soulful  Walk-Up,-73.91139,40.70215,52
+874,313,233,Comfortable well-appointed room,-73.96519,40.673390000000005,100
+875,322,191,2ND AVENUE OFF HOUSTON/LOFTLIKE STU,-73.99274,40.72209,99
+876,45,147,Share in NYC's trendy East Village,-73.98716999999999,40.73171,89
+877,843,857,Historic Brooklyn 2-Bedroom Apt,-73.95100000000001,40.69213,135
+878,816,650,APT W/ OUTDOOR SPACE!! LONG TERM RENTAL PREFERRED!,-74.00608000000001,40.73237,199
+879,288,22,Come and go as  you please in BKLN!,-73.97776999999999,40.64354,89
+880,763,100,Room in Huge 1200sf W Harlem Suite,-73.9531,40.80343,110
+881,595,298,Huge Sunny Open Loft in Brooklyn,-73.9228,40.70462,120
+882,806,170,Cozy Nook in Heart of Williamsburg,-73.96266999999999,40.71394,59
+883,217,624,Peaceful Room...,-74.02035,40.6339,49
+884,919,580,Cute Room in Historic Loft!,-73.95926999999999,40.73028,79
+885,695,549,Harlem on the Range,-73.94433000000001,40.8076,135
+886,598,260,Amazing Park Slope Duplex with Deck,-73.98343,40.66485,185
+887,146,763,Entire 2 Bedroom Apartment in Williamsburg,-73.95852,40.712790000000005,225
+888,432,211,Big Bright E Village 2BR (Baby Nursery),-73.98281999999999,40.73294,245
+889,313,541,Private Manhattan Studio on Harlem/Heights Border,-73.9457,40.834559999999996,115
+890,243,403,Luxury Williamsburg Brooklyn LOFT,-73.95814,40.720909999999996,325
+891,650,276,Artist Loft-McCarren Park-Williamsburg-BrooklynNYC,-73.95414,40.71819,95
+892,626,840,Chelsea/Meat Packing  Artist Space!,-74.00341999999999,40.73887,120
+893,44,581,Elegant Spacious Family Townhouse,-73.98238,40.77892,499
+894,649,764,Large Master Bedroom - Williamsburg,-73.96191999999999,40.713359999999994,75
+895,929,573,Central Park Fifth Av MET Museum,-73.96177,40.77688,109
+896,717,993,Real Williamsburg Artist Loft,-73.94478000000001,40.71368,160
+897,686,259,Lovely Upper East Yorkville 1 BDRM,-73.95265,40.7761,219
+898,250,452,Cozy Upper East Side Studio,-73.95574,40.77471,159
+899,754,911,Large Cozy Room #2 Landmark Home 1 Block to PRATT,-73.96446,40.68625,180
+900,96,603,Lovely studio in East Village NY,-73.98850999999999,40.725,150
+901,759,633,NYC Summer Discount  1 BR Gramercy Apt,-73.97665,40.740159999999996,106
+902,877,337,Awesome views Central location,-73.98293000000001,40.75023,299
+903,718,804,Spacious Manhattan Apartment near Central Park,-73.96809,40.78867,179
+904,957,527,Entire Apt: Sunny 2bd! 15min to NYC,-73.95914,40.66604,165
+905,901,465,Your Historic House in Brooklyn,-73.96076,40.63593,500
+906,813,999,Creative Director's Chinatown Loft,-73.99167,40.71638,250
+907,908,760,HOSTING YOUR COZY  ECLECTIC MILIEU FOR NYC VISIT,-73.92558000000001,40.86658,87
+908,821,536,Charming private room in New-York,-73.96449,40.71179,79
+909,194,753,Cozy bedroom near Times Square,-73.99165,40.76186,75
+910,629,958,Artist's Flat in Historic Building #10263,-73.95917,40.71417,200
+911,967,77,Queen size sofa bed in Harlem,-73.93876999999999,40.82772,80
+912,500,808,Bklyn 6 Beds 1 Bathroom Rental 2,-73.94606999999999,40.63602,115
+913,381,867,Bklyn 4 Beds 1 Bathroom Rental 3,-73.9459,40.63759,115
+914,957,351,4 Beds 2 Bathrooms Rental 1,-73.94637,40.636109999999995,120
+915,285,65,Stylish & Quiet NYC Retreat!,-73.95278,40.803000000000004,125
+916,516,682,Bright new luxury apartment in doorman building,-73.9655,40.79526,387
+917,601,496,TIMES SQUARE MASTER BEDROOM!,-73.99481999999999,40.75763,95
+918,454,350,Lincoln Center Studio Clean&Sunny!,-73.98258,40.77577,99
+919,727,765,Serenity amidst the busy city,-73.95289,40.776309999999995,121
+920,509,566,Super Clean Apt by Columbus Circle,-73.9892,40.76774,350
+921,311,626,Unique private room and bathroom in Brownstone,-73.94355,40.811690000000006,75
+922,160,906,TIMES SQUARE HOUSE!,-73.99349000000001,40.75782,95
+923,609,351,Beautiful Room in a Beautiful New NYC Apartment,-73.95,40.83177,89
+924,214,32,Best West Village/Meatpacking Space,-74.00879,40.73104,195
+925,929,831,21 day Chelsea Apartment rental,-73.9916,40.74253,160
+926,871,310,Heavy Sun Quiet Arty 1 Bedroom,-74.02065999999999,40.64372,70
+927,682,532,Cosy apartment in West Village,-74.00013,40.72886,100
+928,466,567,Spacious Lower East Side Apt in NYC,-73.99016999999999,40.71868,140
+929,249,999,ARTY 2 BED EAST VILLAGE GEM,-73.98116999999999,40.72143,189
+930,695,404,Williamsburg Loft: Amazing Sublet,-73.96369,40.71682,160
+931,817,907,Artist 2BR in Park Slope w/backyard,-73.9821,40.67725,178
+932,329,629,Spacious 2BR near Botanic Garden,-73.95291999999999,40.66888,145
+933,701,508,Gorgeous brownstone next to park!,-73.97533,40.67188,125
+934,877,428,Exquisite Spacious Studio in Midtown,-73.99158,40.74964,265
+935,572,969,COMFORTABLE LARGE ROOM,-73.95057,40.65846,77
+936,552,417,Cute Private room in Upper East Side #14,-73.94717,40.78164,60
+937,202,426,Lower East Side 1bedroom apt in NYC,-73.99029,40.71515,129
+938,730,891,Large Beautiful East Village 1-Bdrm,-73.97913,40.729859999999995,199
+939,710,608,Big room near Prospect Park! NY!,-73.95936999999999,40.66039,92
+940,336,984,It's so easy to get to EVERYthing!,-73.9571,40.66898,185
+941,290,243,Manhattan -  Best Location in Midtown,-73.96713000000001,40.75407,110
+942,483,754,Sunny private room right off L train,-73.94013000000001,40.70712,65
+943,150,749,Beautiful Room in Manhattan Loft,-73.98943,40.74553,135
+944,488,6,Luxury Adorable Studio Apartment,-73.9502,40.77584,115
+945,328,502,HOME AWAY FROM HOME,-73.95156,40.79967,175
+946,3,209,Beautiful 3 bedroom in Manhattan,-73.96931,40.80142,3000
+947,2,117,Den of Zen at The Denizen Bushwick,-73.9353,40.70507,72
+948,442,856,Sunny large private room in Park Slope,-73.97655,40.67962,80
+949,942,853,Eastern Parkway Brooklyn 1BR Flat,-73.94875,40.66847,125
+950,910,795,1400sf Manhattan View Artistic Loft,-73.95678000000001,40.7376,120
+951,343,818,ingefära hus! Private room Williamsburg Brooklyn,-73.95573,40.71148,94
+952,793,119,Private MasterBR w/ View of Museum,-73.96514,40.67425,56
+953,169,425,LUXURY 2BD/2BTH - HUGE PATIO,-73.97792,40.72899,549
+954,835,900,Comfy Brooklyn 2BD W/ Backyard,-73.94013000000001,40.72488,190
+955,360,347,Authentic designer loft/roof deck best Williamsbrg,-73.95696,40.722120000000004,129
+956,936,35,Sunny Retreat with Roof Garden,-73.93433,40.685340000000004,85
+957,720,237,Enjoy Staten Island Hospitality,-74.16534,40.62109,20
+958,725,294,Great apt on the UWS - A RARE FIND!,-73.97898,40.78161,145
+959,92,809,Cozy 2 BD in Midtown West,-73.99046,40.75643,200
+960,314,982,Park Slope Sunny Studio,-73.98111,40.67407,125
+961,268,967,Luxury L-Shape Studio + 3 cats,-73.95149,40.59721,50
+962,49,194,A cozy Red Room with private bathroom,-73.94866,40.80491,160
+963,672,491,Cozy room with private bathroom & outside garden,-73.94805,40.803340000000006,180
+964,286,925,Beautiful 1 bdrm Inwood Manhattan,-73.91611,40.87039,100
+965,478,368,Beautiful Loft/10 min to Manhattan!,-73.93285,40.704,70
+966,600,535,New York City- Riverdale Modern two bedrooms unit,-73.91673,40.879909999999995,120
+967,150,921,A PLACE TO STAY CLOSE TO MANHATTAN,-74.07988,40.62766,110
+968,363,345,Great room priv/bathrm Eastside location 70's ST,-73.96034,40.7685,105
+969,552,623,Midtown NYC - 1 Bedroom Apartment,-73.97548,40.76082,250
+970,262,339,Cozy Room in Sunny Apartment (Long/Short Term),-73.98122,40.74238,74
+971,502,947,THERE'S NO PLACE LIKE HOME.........,-73.9522,40.80151,165
+972,583,502,Cozy home in vibrant Manhattan,-73.94027,40.834340000000005,99
+973,967,761,LOCATION LOCATION LOCATION Sara's,-73.98084,40.73677,125
+974,849,834,Quaint & Quiet in Queens,-73.81560999999999,40.71151,75
+975,333,456,Single Room,-73.84642,40.68581,45
+976,866,662,Charming brownstone apartment,-74.00345,40.68636,159
+977,545,995,Williamsburg near soho .support artist living,-73.96573000000001,40.70994,45
+978,48,438,Your Times Square Sanctuary,-73.99006999999999,40.76013,104
+979,342,141,Designer studio in Luxury Building,-74.01525,40.70621,225
+980,956,503,Private cozy bedroom in Nolita,-73.99689000000001,40.72172,100
+981,16,822,ArtistLoft-MccarenPark-Williamsburg,-73.95221,40.720490000000005,90
+982,418,827,Beautiful Bedrooms in Briarwood NY,-73.81577,40.710679999999996,75
+983,314,10,Flatiron-Designer's loft,-73.98862,40.74125,350
+984,362,624,Stylish Designer Studio with Piano,-73.94223000000001,40.830909999999996,135
+985,642,7,New York City for All Seasons!,-73.98294,40.7824,125
+986,468,789,STUNNING E Vill Penthouse,-73.98267,40.72634,225
+987,125,983,New York Host who knows The Most,-73.94311,40.82703,85
+988,205,11,One Block From Central Park!,-73.95489,40.78521,200
+989,749,826,PARK SLOPE: SWEET LARGE 2BR DUPLEX,-73.98316,40.66106,250
+990,189,756,Light Superhosted Chill LES Apt,-73.98996,40.72123,90
+991,414,975,Big Beautiful Railroad in Brooklyn,-73.92945,40.70339,130
+992,174,529,Bright Brooklyn Flat w/Park Views 30 day minimum,-73.96236999999999,40.660090000000004,90
+993,899,462,ECO-APT free YOGA 2 new bedrooms. Best location!,-73.99398000000001,40.679390000000005,298
+994,420,321,Sunny UES 1.5 Bedroom Sleeps 6,-73.95804,40.76494,300
+995,388,314,Stay with a Jazz Singer in Harlem!,-73.95827,40.80192,125
+996,625,443,Large Private Room Near Central Park & Mount Sinai,-73.94853,40.79314,125
+997,958,153,Luxury room in Manhattan Duplex Apt,-73.99056,40.7453,145
+998,723,722,Gorgeous Sunny Spacious 1 bdrm in East Village,-73.97966,40.728120000000004,147
+999,185,402,ARTIST LOFT+OFFICE in PRIME WILLIAMSBURG!,-73.96484,40.7093,123
+1000,845,947,Private Garden Entry,-73.97904,40.647909999999996,88
+1001,462,923,LUXE Privé L.I.C. Apt & Garden,-73.93377,40.754529999999995,215
+1002,700,655,Magazine SOHO Studio Loft,-73.99976,40.72057,225
+1003,121,667,Nolita apt. with private garden,-73.99439,40.7234,269
+1004,329,734,Family friendly Williamsburg Apt for Vacation!,-73.94669,40.711209999999994,145
+1005,864,465,BROWNSTONE TWO IN BROOKLYN in NYC,-73.91660999999999,40.68979,75
+1006,797,407,Charming West Village One Bedroom,-73.99797,40.73448,145
+1007,720,432,Brooklyn Brownstone full floor/garden ProspectPark,-73.95906,40.65937,229
+1008,948,945,Family friendly  steps to subway large garden :),-73.98826,40.685990000000004,300
+1009,362,702,Private Sunny Room Near Central Park & Mount Sinai,-73.95045999999999,40.79477,100
+1010,902,141,1 bdr apt sunny & artsy 4 min walk to the beach,-73.95455,40.5781,75
+1011,318,753,Simple Perfect Soho,-73.9967,40.72278,225
+1012,635,903,Beautiful Room + Private Balcony,-73.96225,40.71472,120
+1013,991,427,3 BR apartment Crown Heights BKLYN,-73.94406,40.66924,160
+1014,905,253,Brownstone Sunny & Spacious top fl,-73.95489,40.67259,125
+1015,915,381,Morocco in Brooklyn with the flyest loft Amazing!,-73.9442,40.69321,95
+1016,955,213,Perfect NYC/Williamsburg Location,-73.94447,40.71348,119
+1017,766,743,Midtown East Sutton Area Entire Apt,-73.96457,40.75816,275
+1018,549,404,Finest Gateway to historic Financial District,-74.00992,40.70537,160
+1019,792,292,Industrial Brooklyn Loft with Tree-Lined Windows,-73.96289,40.68722,500
+1020,986,450,Cute east village apartment.,-73.98528,40.73111,175
+1021,638,388,All Charm: Lush Garden Huge Kitchen + Quiet,-73.94389,40.722120000000004,87
+1022,923,850,Bright and Quiet 2 BR in Park Slope,-73.97933,40.66626,160
+1023,671,11,Cozy bright 1BR avail. in East Village apartment,-73.9793,40.72978,125
+1024,831,149,Stylish Loft w/Lovely Backyard,-73.94193,40.68838,90
+1025,545,993,Great Apt IDEAL Location 900 SF,-73.98565,40.71804,200
+1026,751,752,Garden - Brownstone Experience,-73.93896,40.685590000000005,250
+1027,63,749,Gorgeous ! Best Location in NYC !,-73.98342,40.77995,99
+1028,770,701,luxury 1 BedRoom Apt Hells Kitchen,-73.99469,40.7559,325
+1029,259,292,Luxury room + En-suite bath in Times Sq/Midtown W,-73.99202,40.76291,99
+1030,959,599,Chic Spacious Loft + Backyard,-73.98273,40.74406,325
+1031,412,841,Sunny and Zen W. Village Studio of Your Own,-74.00498,40.73041,129
+1032,926,411,2BR Lux Prospect Heights,-73.96218,40.6764,130
+1033,78,191,An airy comfy bookish refuge!,-73.98284,40.70279,190
+1034,891,32,Bright & Vibrant- The BK experience,-73.956,40.67436,55
+1035,361,195,Very clean quiet bedroom available,-73.94095,40.83559,60
+1036,583,516,Lux One-bed Central Park View UWS,-73.96481999999999,40.79234,250
+1037,171,963,Elegant Uptown Historic District Garden Apartment,-73.93885,40.834509999999995,275
+1038,62,539,Only 5 Min. to Manhattan!,-73.94633,40.748259999999995,50
+1039,821,190,Lovely 1 bdrm in Prospect Heights!,-73.97185,40.67763,125
+1040,685,797,Spacious & Sunny in Prime Brooklyn,-73.96691,40.68472,150
+1041,210,262,1 Bedroom Apt - Close to JFK & City,-73.87883000000001,40.65408,70
+1042,8,734,1 br. studio duplex  Park Slope/Gowanus Brooklyn,-73.98756,40.67302,138
+1043,803,253,A REAL New Yorkers  Wall St,-74.00974000000001,40.70633,265
+1044,910,231,ROOM AVAILABLE IN NEW YORK CITY,-73.95183,40.77548,145
+1045,353,398,Sunny West Village Dream,-74.00344,40.73775,151
+1046,634,912,SUNNY ZEN  FULL SERVICE HUGE STUDIO,-74.0146,40.70917,208
+1047,615,526,Beautiful corner prewar apartment in Williamsburg,-73.96226,40.7108,200
+1048,899,242,Tranquil Artsy Sunny Bedroom,-73.98861,40.72507,110
+1049,372,303,Room in Harlem,-73.9444,40.827259999999995,58
+1050,126,611,Room for the Summer,-73.94281,40.82669,55
+1051,487,124,Fantastic 2BR in Brooklyn's Best Area,-73.98815,40.67078,105
+1052,378,200,GREAT 1BR/2BA TERRACE & W/D! in EV!,-73.97903000000001,40.728,350
+1053,618,391,Big Beautiful Brooklyn Apt @ Park!,-73.96181,40.65814,150
+1054,161,850,Perfect apt. above L train Graham stop,-73.94292,40.71517,55
+1055,159,267,Gorgeous Park Slope BK triplex 4BD,-73.98235,40.66859,299
+1056,854,216,PrivateAffordable 20 min to NYC!,-73.90255,40.700540000000004,77
+1057,705,385,Lovely Chelsea 1 Bedroom,-73.99965,40.74572,125
+1058,799,449,Classy 2.5 BR Brownstone w/ Garden,-73.97395999999999,40.78911,395
+1059,961,790,Upper Duplex in Brooklyn Brownstone,-73.92817,40.68813,189
+1060,914,644,comfy room minutes from museums,-73.92399,40.81128,49
+1061,30,398,Best Block NYC!  July 25-Aug 18,-73.97699,40.775929999999995,90
+1062,855,36,Great 1 BR Apt in Kips Bay NY,-73.97975,40.73903,100
+1063,931,858,Private Artist’s Apt/ Amazing Location!,-73.965,40.71164,299
+1064,574,390,1 BR Book it 1st then write me,-73.87873,40.75193,75
+1065,880,656,No InqRead it 1 BR Rt of Subway,-73.89376999999999,40.74906,69
+1066,656,284,Spacious Loft 5 min to Union Square,-73.95281999999999,40.71756,90
+1067,560,36,Your Own Private Entrance Studio in Stylish Duplex,-73.94319,40.8179,94
+1068,557,746,Art & Music Salon,-73.97304,40.648140000000005,80
+1069,295,902,Artfully Decorated 2 Bedroom Apt,-73.89909,40.816109999999995,100
+1070,642,927,Lavender Joy Room in Duplex!,-73.90334,40.62897,39
+1071,82,196,1 bdrm brownstone-west 70's-1 block Central Park,-73.9767,40.77555,250
+1072,514,598,Serene Room...,-74.0162,40.6397,55
+1073,424,13,Master Bedroom / ParkSlope Brooklyn,-73.98348,40.672670000000004,110
+1074,125,824,Spacious 4 bedroom house New York,-73.97173000000001,40.64205,200
+1075,465,319,Brooklyn Apartment Windsor Terrace,-73.9829,40.660340000000005,142
+1076,329,100,Bedroom with Garden at the Back,-73.9635,40.68699,70
+1077,651,225,Family friendly sunny new condo in McCarren Park,-73.94908000000001,40.72183,260
+1078,310,636,Exciting Lower East Side Loft Life,-73.9869,40.71986,225
+1079,980,169,Large Room w/ Private Entrance,-73.95405,40.68881,59
+1080,945,408,Private spacious studio available,-73.94266999999999,40.81669,65
+1081,2,581,For Cat-Lovers ONLY,-73.9194,40.86717,99
+1082,326,942,UNION SQUARE❤️PENTHOUSE 2FL+TERRACE❤️EAST VIllAGE,-73.98318,40.72981,239
+1083,711,659,Sunny spacious 1-bedroom in Upper Manhattan,-73.92421,40.86929,50
+1084,743,351,Hello! Cozy-Singles NYC- Upper Manhattan- Harlem!!,-73.95204,40.80533,65
+1085,389,976,Beautiful One Bedroom in Chelsea,-73.99698000000001,40.7476,139
+1086,399,345,West Village Loft 1st floor,-74.00723,40.73357,174
+1087,642,358,West Village Gem - 2BR,-74.00189,40.732040000000005,315
+1088,888,722,Central Harlem Comfy Bedroom with Private Bath,-73.94216999999999,40.81713,75
+1089,251,317,Beautiful apartment in the heart of The Village,-73.98810999999999,40.72917,210
+1090,481,107,Cozy private room williamsburg NYC,-73.94530999999999,40.7061,55
+1091,640,909,Bright Spacious 2 Bedroom/5 Room - wRoof Deck,-73.94378,40.70147,229
+1092,209,600,******AMAZING DEAL IN NYC*****,-73.95303,40.76719,150
+1093,607,789,Great DEAL Gramercy 1 BDROOM /2beds,-73.98113000000001,40.74134,129
+1094,514,898,Beautiful duplex apt in Harlem,-73.94747,40.8162,100
+1095,175,564,Perfect Bedford L Williamsburg Location!,-73.95837,40.71613,200
+1096,266,345,Beautiful Lower East Side Apt! Women only.,-73.98782,40.717459999999996,89
+1097,611,294,Historic 3 Bedroom Eastern Parkway,-73.93798000000001,40.66933,250
+1098,15,148,Large Room w/ Private Entrance,-73.9541,40.68905,65
+1099,624,942,Sunny plant-filled apartment with 2 balconies,-73.95441,40.67615,68
+1100,838,884,W'burg 2 bedroom w/ yard & laundry 5 mins to L,-73.94643,40.7111,235
+1101,857,577,Bright Bedstuy Gem,-73.9376,40.689440000000005,100
+1102,903,845,Curated 1BR on the prettiest block of the LES,-73.98384,40.721059999999994,311
+1103,369,691,yahmanscrashpads,-73.76493,40.67747,39
+1104,979,485,Our NY home Greenwich Village apt,-74.00591,40.73123,100
+1105,419,808,$ (Phone number hidden by Airbnb) weeks - room f,-73.99279,40.72152,1300
+1106,861,461,Studio Apt. Lower East - Manhattan,-73.99208,40.721470000000004,210
+1107,381,649,PRIVATE ROOM NEW YORK,-73.95085999999999,40.66604,55
+1108,721,615,*Unique Master BR in Battery Park!*,-74.01504,40.71012,65
+1109,899,87,Spacious sunny LOFT - best location,-73.95166,40.71856,165
+1110,119,992,Beautiful Sunny Apartment in South Harlem,-73.9576,40.80661,89
+1111,848,463,TriBeCa Amazing River View Loft 3BR,-74.00988000000001,40.72203,500
+1112,894,556,Gorgeous Summer Duplex/Yard sublet,-73.94287,40.68229,145
+1113,231,762,Brooklyn one-bedroom right by Prospect Park!,-73.96066,40.65955,110
+1114,188,22,Luxury Doorman Bldg Nr Central Park,-73.98943,40.771370000000005,180
+1115,396,426,Great Brooklyn Studio/1BR!,-73.96458,40.67796,115
+1116,416,670,Cozy place,-73.90823,40.6933,82
+1117,68,491,AMAZING Private 1stop away from NYC 1 block Subway,-73.94189,40.7502,70
+1118,751,798,Bright Modern Artist's Apartment,-73.94383,40.71285,155
+1119,59,355,Studio apartment by Columbus Circle,-73.98470999999999,40.76487,117
+1120,212,12,Studio Apt in Park Slope- Brooklyn!,-73.99077,40.66387,100
+1121,143,337,1RW- CARRIAGE HOUSE STUDIO OFF CTYD,-73.98278,40.72893,89
+1122,887,667,3RE - CARRIAGE HOUSE STUDIO OFF CTYD,-73.9827,40.730090000000004,89
+1123,417,550,2RE - CARRIAGE HOUSE STUDIO OFF CTYD,-73.98298,40.72955,99
+1124,278,392,NYC studio in ST MARKS PLACE & 1AVE,-73.98521,40.726929999999996,155
+1125,44,106,PRIVATE Room in Spacious Quiet Apt,-73.94391999999999,40.82537,85
+1126,564,223,Great LES / Chinatown bedroom,-73.99403000000001,40.71137,80
+1127,88,146,Sunny Midtown East Apt w/ a Loft!!!,-73.97809000000001,40.744279999999996,135
+1128,138,747,Gorgeous 2 bdrm in Carroll Gardens,-73.99968,40.67579,150
+1129,973,213,Spectacular Lux 1 Bed Apt Best Location Terrace!,-74.00225999999999,40.74087,380
+1130,979,361,Brooklyn Brownstone w/ Beautiful Garden,-73.96897,40.68723,450
+1131,639,524,Mini Loft Williamsburg Bkln-Bedford,-73.95763000000001,40.7182,145
+1132,9,83,Rent in beautiful Sunnyside Gardens for holidays,-73.91853,40.746790000000004,80
+1133,500,162,Williamsburg 2b apartment with deck,-73.95472,40.71739,225
+1134,686,903,Studio 54 Cozy Room For 2,-73.9898,40.770990000000005,99
+1135,997,98,Super Cute Junior 1BR in LES!!,-73.98021999999999,40.7195,125
+1136,183,286,GREAT BRAND NEW 1 BED APT*TIMES SQ,-73.9939,40.75636,80
+1137,472,386,Beautiful Brooklyn Brownstone,-73.97875,40.688340000000004,100
+1138,837,928,Best double Room all included wifi,-73.94837,40.68586,55
+1139,707,33,Downtown Full Floor Loft,-74.00774,40.71164,328
+1140,198,986,Perfect & Stylish Williamsburg Apt,-73.96728,40.70743,142
+1141,194,554,Large home in most desirable Brooklyn hood!,-73.96534,40.68545,350
+1142,32,878,Loft-Like Park Slope 3bdr Duplex,-73.98384,40.65854,300
+1143,556,921,Modern 1br by ocean in Brooklyn,-74.03381,40.61269,105
+1144,166,648,Sunny Apt in Brooklyn-Close to Manhattan,-73.98536999999999,40.67858,125
+1145,417,842,Great 2 bedroom apartment in Williamsburg!,-73.95352,40.70821,225
+1146,397,418,Nice apartment with a deck!,-73.98954,40.66158,92
+1147,450,191,Lovely Central East Village 2 Person Entire Apt,-73.98453,40.72457,185
+1148,650,623,PRIME LOCATION STYLISH COMFORT,-73.95706,40.71689,226
+1149,187,394,South Slope Private Bedroom,-73.99743000000001,40.662209999999995,50
+1150,484,958,A Gem in Harlem - Modern Living,-73.93493000000001,40.79313,80
+1151,442,505,Great for families!,-73.99904000000001,40.68444,200
+1152,80,178,Lovely 1BR - Midtown East by metro!,-73.96464,40.75632,99
+1153,755,735,Cat lovers: 3-story Park Slope Townhouse with cat!,-73.98026999999999,40.679959999999994,68
+1154,145,869,Cozy Love Nest Prospect Heights,-73.96589,40.67369,102
+1155,695,676,3 bdrm family friendly home in central Park Slope,-73.976,40.672109999999996,220
+1156,794,683,Renovated Spacious 1BR Upper West,-73.97171999999999,40.79183,199
+1157,448,805,Stylish Large 1bd APT in Chinatown/Tribeca NYC,-73.99978,40.71456,165
+1158,132,960,Two Bridges District Chinatown NYC,-73.99073,40.71668,150
+1159,536,52,Huge sunny artist loft +roof garden,-73.98561,40.67862,385
+1160,195,441,Brooklyn waterfront large sunny apt,-74.00147,40.68721,75
+1161,310,733,The SoHo Loft - Huge Penthouse - 1200 sqft,-74.00414,40.72162,499
+1162,167,800,10min Walk & 15mins to Tourist Spot,-73.89239,40.75541,85
+1163,153,641,Classic Brooklyn Brownstone,-73.97691,40.69011,160
+1164,508,468,Beautiful Spacious 4 BR Brooklyn Brownstone,-73.98283,40.66641,249
+1165,808,881,Carroll Gardens Carriage House,-73.99136,40.67828,80
+1166,803,408,Modern private room in condominium,-73.96216,40.71483,120
+1167,505,661,Hi Traveler.. welcome,-73.8524,40.8687,35
+1168,859,271,NYC 30 min by Subway Brooklyn 2,-73.96392,40.5822,169
+1169,899,30,Trendy Nest in the East Village,-73.9797,40.726859999999995,220
+1170,644,873,BEAUTIFUL ROOM IN BKLYN BROWNSTONE,-73.92951,40.68825,85
+1171,767,321,UPWS sunny DUPLEX +PATIO,-73.97882,40.78451,300
+1172,48,20,Private Bdrm & Bath-30-night min-Weekly Maid Serv.,-73.94205,40.82392,79
+1173,99,707,Private Bedroom in Wooden House,-73.9474,40.713840000000005,90
+1174,989,835,Room w/pvt bathroom on Central Park,-73.9624,40.7952,99
+1175,661,498,Beautiful Downtown Manhattan Share,-74.00009,40.73942,50
+1176,579,597,Sunny Rm #1 Air Conditioner ParkExpress Q train,-73.95645999999999,40.65524,46
+1177,847,693,Park Slope duplex with backyard,-73.98554,40.66153,325
+1178,246,275,Spacious Apartment w extra room,-74.16178000000001,40.59274,68
+1179,917,92,HEART OF SOHO The Perfect One Bedroom Apt,-74.0011,40.72701,198
+1180,367,11,Charming & Spacious One Bedroom,-73.95839000000001,40.68607,100
+1181,34,596,Hip Stylish WIlliamsburg Studio,-73.95689,40.71345,175
+1182,561,563,SLEEK WEST VILLAGE ARTIST STUDIO LOFT,-74.00188,40.73214,130
+1183,989,218,Sunny 1BD in Greenwich Village,-74.00028,40.72903,180
+1184,414,363,1760 Sq ft Penthouse apartment,-73.97006999999999,40.67823,209
+1185,726,907,Charming Retro Apt on the UWS,-73.96903,40.79842,150
+1186,612,469,Clean & quiet apt home by the park,-73.97237,40.647490000000005,149
